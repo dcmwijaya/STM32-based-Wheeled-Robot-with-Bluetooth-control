@@ -1,2 +1,2 @@
-# Raspberry-Pi-Pico-based-Radio-Control-Car-Robot
-Raspberry Pi Pico-based Radio Control Car Robot | Solo Project
+# STM32-based-Radio-Control-Car-Robot
+STM32-based Radio Control Car Robot | Solo Project
