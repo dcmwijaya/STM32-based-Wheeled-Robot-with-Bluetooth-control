@@ -6,3 +6,26 @@
 # STM32-based-Bluetooth-Radio-Control-Car-Robot
 <strong>Solo Project STM32-based BTRC Car Robot</strong><br><br>
 In operation, this robot car requires a battery as its power supply. Then the user can control its movement by using a bluetooth signal. If the receiver is close to the transmitter, the signal generated will be stronger, while on the contrary, the signal generated will be weaker.
+
+<br><br>
+
+## Features / Framework / Tools
+| Media | Description |
+| --- | --- |
+| Board Development | STM32F103C8T6 |
+| Code Editor | Arduino IDE |
+| Driver | USB-Serial CP210X |
+| Arduino Library | PROCESS... |
+| Actuators | Gear Motor / Motor DC |
+| Sensor | SPP-C Bluetooth Module |
+| Other Components | Jumper cable, USB cable type A/B, Li-ion battery 4800mAh 3.7V 18650 (x2), Parallel battery holder, Robot wheels (x2), Motor driver L298N, Car robot skeleton, ETC |
+
+<br><br>
+
+## Download & Install Arduino IDE
+
+   ```
+   https://www.arduino.cc/en/software
+   ```
+
+<br><br>
