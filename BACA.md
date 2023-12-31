@@ -100,7 +100,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 <br><br>
 
 ## Mode Boot pada board STM32 :
-1. ``` Mode Programming ``` :
+1. ``` Mode Pemrograman ``` :
    
    • Pastikan belum mengunggah program.
    
