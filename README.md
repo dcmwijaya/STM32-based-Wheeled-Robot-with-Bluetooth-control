@@ -95,9 +95,30 @@ In operation, this robot car requires a battery as its power supply. Then the us
 8. ``` Port Setup ``` in Arduino IDE<br><br>
    • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
 
-9. Before uploading the program, make sure the jumper positions ``` BOOT0 ``` is in the ``` 0 ``` position and ``` BOOT1 ``` is in the ``` 1 ``` position then press the ``` Reset ``` button.<br><br>
+9. Please click: ``` Upload ```.
 
-10. Please click: ``` Upload ```.
+<br><br>
+
+## Boot Mode on board STM32 :
+1. ``` Programming Mode ``` :
+   
+   • Make sure you haven't uploaded the program.
+   
+   • Make sure the jumper position ``` BOOT0 ``` is at position ``` 0 ```.
+   
+   • Make sure the jumper position ``` BOOT1 ``` is at position ``` 1 ```.
+   
+   • Press the ``` RESET ``` button.<br><br>
+   
+2. ``` Operational Mode ``` :
+   
+   • Make sure to upload the program.
+   
+   • Make sure the jumper position ``` BOOT0 ``` is at position ``` 0 ```.
+   
+   • Make sure the jumper position ``` BOOT1 ``` is at position ``` 0 ```.
+   
+   • Press the ``` RESET ``` button.
 
 <br><br>
 
