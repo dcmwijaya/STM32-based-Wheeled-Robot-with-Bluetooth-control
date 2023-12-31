@@ -95,9 +95,30 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 8. ``` Pengaturan Port ``` di Arduino IDE<br><br>
    • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
 
-9. Sebelum mengunggah program, pastikan posisi jumper ``` BOOT0 ``` pada posisi ``` 0 ``` dan ``` BOOT1 ``` pada posisi ``` 1 ``` kemudian tekan tombol ``` RESET ```.<br><br>
+9. Silakan klik: ``` Upload ```.
 
-10. Silakan klik: ``` Upload ```.
+<br><br>
+
+## Mode Boot pada board STM32 :
+1. ``` Mode Programming ``` :
+   
+   • Pastikan belum mengunggah program.
+   
+   • Pastikan posisi jumper ``` BOOT0 ``` pada posisi ``` 0 ```.
+   
+   • Pastikan posisi jumper ``` BOOT1 ``` pada posisi ``` 1 ```.
+   
+   • Tekan tombol ``` RESET ```.<br><br>
+   
+2. ``` Mode Operasional ``` :
+   
+   • Pastikan telah mengunggah program.
+   
+   • Pastikan posisi jumper ``` BOOT0 ``` pada posisi ``` 0 ```.
+   
+   • Pastikan posisi jumper ``` BOOT1 ``` pada posisi ``` 0 ```.
+   
+   • Tekan tombol ``` RESET ```.
 
 <br><br>
 
