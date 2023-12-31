@@ -104,9 +104,9 @@ In operation, this robot car requires a battery as its power supply. Then the us
    
    • Make sure you haven't uploaded the program.
    
-   • Make sure the jumper position ``` BOOT0 ``` is at position ``` 0 ```.
+   • Make sure the jumper position ``` BOOT0 ``` is at position ``` 1 ```.
    
-   • Make sure the jumper position ``` BOOT1 ``` is at position ``` 1 ```.
+   • Make sure the jumper position ``` BOOT1 ``` is at position ``` 0 ```.
    
    • Press the ``` RESET ``` button.<br><br>
    
