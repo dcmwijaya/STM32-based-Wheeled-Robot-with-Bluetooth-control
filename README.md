@@ -18,7 +18,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Arduino Library | PROCESS... |
 | Actuators | Gear Motor / Motor DC |
 | Sensor | SPP-C Bluetooth Module |
-| Other Components | FTDI USB To TLL Serial, Jumper cable, Li-ion battery 4800mAh 3.7V 18650 (x2), Parallel battery holder, Robot wheels (x2), Motor driver L298N, Car robot skeleton, ETC |
+| Other Components | FTDI USB To TTL Serial, Jumper cable, Li-ion battery 4800mAh 3.7V 18650 (x2), Parallel battery holder, Robot wheels (x2), Motor driver L298N, Car robot skeleton, ETC |
 
 <br><br>
 
@@ -36,4 +36,60 @@ In operation, this robot car requires a battery as its power supply. Then the us
    https://bit.ly/CP210X_Driver
    ```
    
+<br><br>
+
+## Project Requirements
+<table>
+<tr>
+<th width="420">Block Diagram</th>
+<th width="420">Pictorial Diagram</th>
+</tr>
+<tr>
+<td><img src="" alt="Block-Diagram"></td>
+<td><img src="" alt="Pictorial-Diagram"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="840">Wiring</th>
+</tr>
+<tr>
+<td><img src="" alt="Wiring"></td>
+</tr>
+</table>
+
+<br><br>
+
+## Arduino IDE Setup
+1. Open the ``` Arduino IDE ``` first, then open the project by clicking: ``` File ``` -> ``` Open ``` -> ``` stm32_btrc_car_robot.ino ```.<br><br>
+   
+2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE<br><br>
+   • Method: click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
+   
+   ```
+   https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json
+   ```
+   
+3. ``` Board Setup ``` in Arduino IDE<br><br>
+   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` STM32 Cores ```. Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` STM32 Boards ``` -> ``` Generic STM32F1 series ```.<br><br>
+   
+4. ``` Change Board Part Number ``` in Arduino IDE<br><br>
+   • Method: click ``` Tools ``` -> ``` Board part number ``` -> ``` Blue Pill F103C8 ```.<br><br>
+   
+5. ``` Change U(S)ART Support ``` in Arduino IDE<br><br>
+   • Method: click ``` Tools ``` -> ``` U(S)ART Support ``` -> ``` Enabled (generic 'Serial') ```.<br><br>
+
+6. ``` Change Upload Method ``` in Arduino IDE<br><br>
+   • Method: click ``` Tools ``` -> ``` Upload method ``` -> ``` STM32CubeProgrammer (Serial) ```.<br><br>
+   
+7. ``` Install Library ``` in Arduino IDE<br><br>
+   • Method: download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+
+8. ``` Port Setup ``` in Arduino IDE<br><br>
+   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
+
+9. Before uploading the program, make sure the jumper positions ``` BOOT0 ``` is in the ``` 0 ``` position and ``` BOOT1 ``` is in the ``` 1 ``` position then press the ``` Reset ``` button.<br><br>
+
+10. Please click: ``` Upload ```.
+
 <br><br>
