@@ -99,7 +99,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
 <br><br>
 
-## Boot Mode on board STM32 :
+## Boot Mode Setup on the STM32 board :
 1. ``` Programming Mode ``` :
    
    • Make sure you haven't uploaded the program.
