@@ -71,28 +71,22 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    ```
    
 3. ``` Pengaturan Board ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` STM32 Cores ```. Kemudian pilih Board dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` STM32 Boards ``` -> ``` Generic STM32F1 series ```.
-   <br><br>
+   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` STM32 Cores ```. Kemudian pilih Board dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` STM32 Boards ``` -> ``` Generic STM32F1 series ```.<br><br>
    
 4. ``` Ubah Nomor Bagian Papan ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Board part number ``` -> ``` Blue Pill F103C8 ```.
-   <br><br>
+   • Cara: klik ``` Tools ``` -> ``` Board part number ``` -> ``` Blue Pill F103C8 ```.<br><br>
    
 5. ``` Ubah Dukungan U(S)ART ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` U(S)ART Support ``` -> ``` Enabled (generic 'Serial') ```.
-   <br><br>
+   • Cara: klik ``` Tools ``` -> ``` U(S)ART Support ``` -> ``` Enabled (generic 'Serial') ```.<br><br>
 
 6. ``` Ubah Metode Pengunggahan ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Upload method ``` -> ``` STM32CubeProgrammer (Serial) ```.
-   <br><br>
+   • Cara: klik ``` Tools ``` -> ``` Upload method ``` -> ``` STM32CubeProgrammer (Serial) ```.<br><br>
    
 7. ``` Instal Pustaka ``` di Arduino IDE<br><br>
-   • Cara: unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.
-   <br><br>
+   • Cara: unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
 
 8. ``` Pengaturan Port ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.
-   <br><br>
+   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
 
 9. Sebelum mengunggah program, pastikan posisi jumper ``` BOOT0 ``` pada posisi ``` 0 ``` dan ``` BOOT1 ``` pada posisi ``` 1 ``` kemudian tekan tombol ``` RESET ```.<br><br>
 
