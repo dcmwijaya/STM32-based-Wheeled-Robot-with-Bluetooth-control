@@ -104,9 +104,9 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    
    • Pastikan belum mengunggah program.
    
-   • Pastikan posisi jumper ``` BOOT0 ``` pada posisi ``` 0 ```.
+   • Pastikan posisi jumper ``` BOOT0 ``` pada posisi ``` 1 ```.
    
-   • Pastikan posisi jumper ``` BOOT1 ``` pada posisi ``` 1 ```.
+   • Pastikan posisi jumper ``` BOOT1 ``` pada posisi ``` 0 ```.
    
    • Tekan tombol ``` RESET ```.<br><br>
    
