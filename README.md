@@ -20,9 +20,9 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Code Editor | Arduino IDE |
 | Driver | USB-Serial CP210X |
 | Arduino Library | PROCESS... |
-| Actuators | Gear Motor / Motor DC |
-| Sensor | SPP-C Bluetooth Module |
-| Other Components | FTDI USB To TTL Serial, Micro usb cable, Jumper cable, Li-ion battery 4800mAh 3.7V 18650 (x2), Parallel battery holder, Robot wheels (x2), Motor driver L298N, Car robot frame, ETC |
+| Actuators | Gear Motor / Motor DC (x2) |
+| Sensor | SPP-C Bluetooth Module (x1) |
+| Other Components | FTDI USB To TTL Serial (x1), Micro usb cable (x1), Jumper cable, Li-ion battery 4800mAh 3.7V 18650 (x2), Parallel battery holder (x1), Robot wheels (x3), Motor driver L298N (x1), Car robot frame (x1), ETC |
 
 <br><br>
 
