@@ -22,7 +22,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Arduino Library | PROCESS... |
 | Actuators | Gear Motor / Motor DC |
 | Sensor | SPP-C Bluetooth Module |
-| Other Components | FTDI USB To TTL Serial, Micro usb cable, Jumper cable, Li-ion battery 4800mAh 3.7V 18650 (x2), Parallel battery holder, Robot wheels (x2), Motor driver L298N, Car robot skeleton, ETC |
+| Other Components | FTDI USB To TTL Serial, Micro usb cable, Jumper cable, Li-ion battery 4800mAh 3.7V 18650 (x2), Parallel battery holder, Robot wheels (x2), Motor driver L298N, Car robot frame, ETC |
 
 <br><br>
 
