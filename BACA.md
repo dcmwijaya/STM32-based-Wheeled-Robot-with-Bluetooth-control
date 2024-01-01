@@ -20,9 +20,9 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 | Editor Kode | Arduino IDE |
 | Driver | USB-Serial CP210X |
 | Pustaka Arduino | PROSES... |
-| Aktuator | Motor Gear / Motor DC |
-| Sensor | Modul Bluetooth SPP-C |
-| Komponen Lainnya | FTDI USB Ke Serial TTL, Kabel mikro usb, Kabel jumper, Baterai Li-ion 4800mAh 3.7V 18650 (x2), Tempat baterai pararel, Roda robot (x2), Motor driver L298N, Kerangka robot mobil, DLL |
+| Aktuator | Motor Gear / Motor DC (x2) |
+| Sensor | Modul Bluetooth SPP-C (x1) |
+| Komponen Lainnya | FTDI USB Ke Serial TTL (x1), Kabel mikro usb (x1), Kabel jumper, Baterai Li-ion 4800mAh 3.7V 18650 (x2), Tempat baterai seri (x1), Roda robot (x3), Motor driver L298N (x1), Kerangka robot mobil (x1), DLL |
 
 <br><br>
 
