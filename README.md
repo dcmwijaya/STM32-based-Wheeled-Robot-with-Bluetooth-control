@@ -19,6 +19,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Board Development | STM32F103C8T6 |
 | Code Editor | Arduino IDE |
 | Driver | USB-Serial CP210X |
+| Programming Language | C/C++ |
 | Arduino Library | PROCESS... |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | SPP-C Bluetooth Module (x1) |
