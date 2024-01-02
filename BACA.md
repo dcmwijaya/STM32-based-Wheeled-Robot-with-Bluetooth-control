@@ -19,6 +19,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 | Papan Pengembangan | STM32F103C8T6 |
 | Editor Kode | Arduino IDE |
 | Driver | USB-Serial CP210X |
+| Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | PROSES... |
 | Aktuator | Motor Gear / Motor DC (x2) |
 | Sensor | Modul Bluetooth SPP-C (x1) |
