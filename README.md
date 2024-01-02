@@ -7,10 +7,6 @@
 <strong>Solo Project STM32-based BTRC Car Robot</strong><br><br>
 In operation, this robot car requires a battery as its power supply. Then the user can control its movement by using a bluetooth signal. If the receiver is close to the transmitter, the signal generated will be stronger, while on the contrary, the signal generated will be weaker.
 
-<br>
-
-<img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/93a81787-c511-4f8d-a250-74816432e9ac" alt="Happy_New_Years">
-
 <br><br>
 
 ## Features / Framework / Tools
