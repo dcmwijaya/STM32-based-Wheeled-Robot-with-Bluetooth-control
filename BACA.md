@@ -137,7 +137,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 <br><br>
 
 ## Sorotan
-Dalam proses.....
+Segera hadir....
 
 <br><br>
 
