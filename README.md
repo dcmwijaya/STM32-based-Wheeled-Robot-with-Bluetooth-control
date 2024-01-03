@@ -137,7 +137,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 <br><br>
 
 ## Highlights
-In process.....
+Coming Soon....
 
 <br><br>
 
