@@ -14,7 +14,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | --- | --- |
 | Board Development | STM32F103C8T6 |
 | Code Editor | Arduino IDE |
-| Driver | Virtual COM Port (VCP) |
+| Driver | USB-Serial CDM |
 | Programming Language | C/C++ |
 | Arduino Library | PROCESS... |
 | Actuators | Gear Motor / Motor DC (x2) |
@@ -31,10 +31,10 @@ In operation, this robot car requires a battery as its power supply. Then the us
    ```
 <br>
 
-2. Virtual COM Port (VCP)
+2. USB-Serial CDM
 
    ```
-   https://bit.ly/VCP_Driver
+   https://bit.ly/CDM_Driver
    ```
 <br>
 
