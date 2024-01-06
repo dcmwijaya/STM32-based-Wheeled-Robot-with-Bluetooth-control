@@ -117,7 +117,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
    
    • Compile and upload your program through a code editor, in this case the ``` Arduino IDE ```.<br><br><br>
    
-3. ``` Operational Mode ``` :
+3. ``` Operating Mode ``` :
    
    • Make sure to upload the program.
 
