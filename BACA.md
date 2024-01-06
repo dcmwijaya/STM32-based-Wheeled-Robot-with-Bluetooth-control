@@ -111,7 +111,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 
    • Sambungkan board STM32F103C8T6 ini ke FTDI -> lalu dari FTDI sambungkan ke PC/Laptop Anda.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/94f6303d-59b5-48a1-9d68-f32041149319" alt="FTDI-Wiring">
+      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/c98d7919-615d-4ab4-ac90-44a755fc9fb6" alt="programming-mode">
    
    • Tekan tombol ``` RESET ```.
 
