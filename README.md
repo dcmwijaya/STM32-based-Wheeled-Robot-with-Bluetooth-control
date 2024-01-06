@@ -111,7 +111,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
    • Connect this STM32F103C8T6 board to FTDI -> then from FTDI connect to your PC/Laptop.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/94f6303d-59b5-48a1-9d68-f32041149319" alt="FTDI-Wiring">
+      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/c98d7919-615d-4ab4-ac90-44a755fc9fb6" alt="programming-mode">
    
    • Press the ``` RESET ``` button.
    
