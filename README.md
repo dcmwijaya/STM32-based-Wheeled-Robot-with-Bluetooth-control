@@ -125,7 +125,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
    
    • Make sure the jumper position ``` BOOT0 ``` and ``` BOOT1 ``` is at position ``` 0 ```.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/c56bc347-0178-4576-b537-13208a8e7346" alt="operating-mode">
+      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/98da8ef3-58e3-4392-a357-ae826265a036" alt="operating-mode">
    
    • Press the ``` RESET ``` button.
 
