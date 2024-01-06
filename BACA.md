@@ -123,9 +123,9 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 
    • Lepaskan FTDI dari perangkat.
    
-   • Pastikan posisi jumper ``` BOOT0 ``` pada posisi ``` 0 ```.
-   
-   • Pastikan posisi jumper ``` BOOT1 ``` pada posisi ``` 0 ```.
+   • Pastikan posisi jumper ``` BOOT0 ``` dan ``` BOOT1 ``` pada posisi ``` 0 ```.
+      
+      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/c56bc347-0178-4576-b537-13208a8e7346" alt="operating-mode">
    
    • Tekan tombol ``` RESET ```.
 
