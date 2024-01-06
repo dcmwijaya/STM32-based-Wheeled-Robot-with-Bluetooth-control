@@ -14,7 +14,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 | --- | --- |
 | Papan Pengembangan | STM32F103C8T6 |
 | Editor Kode | Arduino IDE |
-| Driver | USB-Serial CP210X |
+| Driver | USB-Serial CDM |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | PROSES... |
 | Aktuator | Motor Gear / Motor DC (x2) |
@@ -31,10 +31,10 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    ```
 <br>
 
-2. USB-Serial CP210X
+2. USB-Serial CDM
 
    ```
-   https://bit.ly/CP210X_Driver
+   https://bit.ly/CDM_Driver
    ```
 <br>
 
