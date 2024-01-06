@@ -19,7 +19,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 | Pustaka Arduino | PROSES... |
 | Aktuator | Motor Gear / Motor DC (x2) |
 | Sensor | Modul Bluetooth SPP-C (x1) |
-| Komponen Lainnya | FTDI USB Ke Serial TTL (x1), Kabel mikro usb (x1), Kabel jumper, Baterai Li-ion 4800mAh 3.7V 18650 (x2), Tempat baterai seri 2 slot (x1), Roda robot (x2), Roda kastor (x1), Motor driver L298N (x1), Kerangka robot mobil (x1), DLL |
+| Komponen Lainnya | FTDI USB Ke Serial TTL (x1), Kabel jumper, Baterai Li-ion 4800mAh 3.7V 18650 (x2), Tempat baterai seri 2 slot (x1), Roda robot (x2), Roda kastor (x1), Motor driver L298N (x1), Kerangka robot mobil (x1), DLL |
 
 <br><br>
 
@@ -108,18 +108,28 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    • Pastikan posisi jumper ``` BOOT0 ``` pada posisi ``` 1 ```.
    
    • Pastikan posisi jumper ``` BOOT1 ``` pada posisi ``` 0 ```.
+
+   • Sambungkan board STM32F103C8T6 ini ke FTDI -> lalu dari FTDI sambungkan ke PC/Laptop Anda.
+      
+      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/c56bc347-0178-4576-b537-13208a8e7346" alt="FTDI-Wiring">
    
-   • Tekan tombol ``` RESET ```.<br><br>
+   • Tekan tombol ``` RESET ```.
+
+   • Kompilasi dan unggah program anda melalui editor kode, dalam hal ini ``` Arduino IDE ```.<br><br><br>
    
-2. ``` Mode Operasional ``` :
+3. ``` Mode Pengoperasian ``` :
    
    • Pastikan telah mengunggah program.
+
+   • Lepaskan FTDI dari perangkat.
    
    • Pastikan posisi jumper ``` BOOT0 ``` pada posisi ``` 0 ```.
    
    • Pastikan posisi jumper ``` BOOT1 ``` pada posisi ``` 0 ```.
    
    • Tekan tombol ``` RESET ```.
+
+   • Kode program siap dioperasikan, dalam hal ini sudah tidak ada aktivitas pemrograman.
 
 <br><br>
 
