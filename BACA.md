@@ -62,7 +62,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/1d082aa3-b69b-4b79-b53d-66c4a54dddc2" alt="Wiring"></td>
+<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/952f4338-b9ff-4359-959e-582220b58809" alt="Wiring"></td>
 </tr>
 </table>
 
