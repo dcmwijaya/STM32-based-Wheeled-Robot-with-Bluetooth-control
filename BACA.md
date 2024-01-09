@@ -18,7 +18,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | PROSES... |
 | Aktuator | Motor Gear / Motor DC (x2) |
-| Sensor | Modul Bluetooth SPP-C (x1) |
+| Sensor | SPP-C: Modul Bluetooth (x1) |
 | Saklar | KCD11: Saklar Pengayun (x1) |
 | Komponen Lainnya | FTDI FT232RL: USB Ke Serial TTL (x1), Kabel mini USB tipe-B (x1), Kabel jumper, Baterai Li-ion 4800mAh 3.7V 18650 (x2), Tempat baterai seri 2 slot (x1), Roda robot (x2), Roda kastor (x1), Motor driver L298N (x1), Kerangka robot mobil (x1), Soket konektor mikro usb jantan (x1), DLL |
 
