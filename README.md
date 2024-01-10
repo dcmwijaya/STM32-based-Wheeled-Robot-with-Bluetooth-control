@@ -19,7 +19,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Arduino Library | PROCESS... |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | SPP-C: Bluetooth Module (x1) |
-| Switch | KCD11: Rocker Switch (x1) |
+| Switch | KCD11: Rocker Switch SPST (x1) |
 | Other Components | FTDI FT232RL: USB To TTL Serial (x1), Mini USB type-B cable (x1), Jumper cable, Li-ion battery 4800mAh 3.7V 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x2), Caster wheel (x1), Motor driver L298N (x1), Car robot frame (x1), Micro usb male connector socket (x1), ETC |
 
 <br><br>
@@ -55,7 +55,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/85978010-4eb6-4a6b-ad12-c6c0dd551e97" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/b80333b3-53db-4bf4-9489-24b64bddaf70" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/1b0f294b-46ab-4340-9dcc-be047f19e219" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>
@@ -63,7 +63,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/952f4338-b9ff-4359-959e-582220b58809" alt="Wiring"></td>
+<td><img src="" alt="Wiring"></td>
 </tr>
 </table>
 
