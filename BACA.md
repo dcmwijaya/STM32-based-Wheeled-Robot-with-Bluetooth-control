@@ -19,7 +19,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 | Pustaka Arduino | PROSES... |
 | Aktuator | Motor Gear / Motor DC (x2) |
 | Sensor | SPP-C: Modul Bluetooth (x1) |
-| Saklar | KCD11: Saklar Pengayun (x1) |
+| Saklar | KCD11: Saklar Pengayun SPST (x1) |
 | Komponen Lainnya | FTDI FT232RL: USB Ke Serial TTL (x1), Kabel mini USB tipe-B (x1), Kabel jumper, Baterai Li-ion 4800mAh 3.7V 18650 (x2), Tempat baterai seri 2 slot (x1), Roda robot (x2), Roda kastor (x1), Motor driver L298N (x1), Kerangka robot mobil (x1), Soket konektor mikro usb jantan (x1), DLL |
 
 <br><br>
@@ -55,7 +55,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/85978010-4eb6-4a6b-ad12-c6c0dd551e97" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/b80333b3-53db-4bf4-9489-24b64bddaf70" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/1b0f294b-46ab-4340-9dcc-be047f19e219" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>
@@ -63,7 +63,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/952f4338-b9ff-4359-959e-582220b58809" alt="Wiring"></td>
+<td><img src="" alt="Wiring"></td>
 </tr>
 </table>
 
