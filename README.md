@@ -63,7 +63,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="" alt="Wiring"></td>
+<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/42cd2047-d832-44cf-b8fc-370f6d262e18" alt="Wiring"></td>
 </tr>
 </table>
 
