@@ -55,7 +55,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/85978010-4eb6-4a6b-ad12-c6c0dd551e97" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/1b0f294b-46ab-4340-9dcc-be047f19e219" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/14f48e49-1808-4fca-abf7-1706b972c66a" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>
