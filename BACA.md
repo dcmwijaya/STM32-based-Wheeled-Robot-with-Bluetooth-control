@@ -9,7 +9,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 
 <br><br>
 
-## Fitur / Kerangka Kerja / Alat
+## Kebutuhan Proyek
 | Media | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | STM32F103C8T6 |
@@ -47,7 +47,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    
 <br><br>
 
-## Persyaratan Proyek
+## Rancangan Proyek
 <table>
 <tr>
 <th width="420">Diagram Blok</th>
@@ -141,7 +141,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    
 3. Pastikan komponen anda telah dirancang sesuai dengan diagram.<br><br>
     
-4. Jika Anda tidak menerapkan poin 2 dan 3 untuk tujuan pengembangan proyek, tidak masalah, tetapi perlu diketahui bahwa beberapa hal perlu diubah sesuai dengan kebutuhan Anda agar sistem dapat bekerja dengan baik.<br><br>
+4. Konfigurasikan perangkat anda menurut pengaturan di atas.<br><br>
 
 5. Selamat menikmati [Selesai].
 
