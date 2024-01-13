@@ -16,7 +16,8 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 | Editor Kode | Arduino IDE |
 | Driver | USB-Serial CDM |
 | Bahasa Pemrograman | C/C++ |
-| Pustaka Arduino | PROSES... |
+| Platform Aplikasi Seluler | Arduino bluetooth controller |
+| Pustaka Arduino | SoftwareSerial |
 | Aktuator | Motor Gear / Motor DC (x2) |
 | Sensor | SPP-C: Modul Bluetooth (x1) |
 | Saklar | KCD11: Saklar Pengayun SPST (x1) |
