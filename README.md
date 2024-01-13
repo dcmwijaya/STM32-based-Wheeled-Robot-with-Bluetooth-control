@@ -16,7 +16,8 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Code Editor | Arduino IDE |
 | Driver | USB-Serial CDM |
 | Programming Language | C/C++ |
-| Arduino Library | PROCESS... |
+| Mobile App Platform | Arduino bluetooth controller |
+| Arduino Library | SoftwareSerial |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | SPP-C: Bluetooth Module (x1) |
 | Switch | KCD11: Rocker Switch SPST (x1) |
