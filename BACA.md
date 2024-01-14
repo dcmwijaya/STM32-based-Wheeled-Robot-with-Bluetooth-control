@@ -136,7 +136,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 <br><br>
 
 ## Pengaturan Arduino Bluetooth Controller
-1. Buka ponsel cerdas anda, lalu pada ``` Google Play Store ``` cari aplikasi ``` Arduino Bluetooth Controller ```, kemudian lakukan instalasi.
+1. Buka ponsel cerdas anda, lalu pada ``` Google Play Store ``` cari aplikasi yang bernama ``` Arduino Bluetooth Controller ``` buatan ``` MyValley Apps ```, kemudian lakukan instalasi.
    
 2. Hidupkan ``` bluetooth ``` yang ada di ponsel cerdas anda.
    
@@ -146,15 +146,24 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    
 5. Kemudian ``` memasangkan perangkat ```.
    
-6. Pada menu ``` Home ``` -> Pilih fitur ``` CONTROLLER ```.
+6. Pada menu ``` HOME ``` -> pilih ``` CONTROLLER ``` -> tunggu sebentar sampai tampilannya muncul.
    
-7. Arah pergerakan robot mobil ini dapat anda atur melalui ``` Function1 ``` :
+7. Lalu klik ``` simbol titik tiga di pojok kanan atas ``` seperti yang terlihat pada gambar di bawah ini.
+
+   <img src="" alt="3-dot">
+  
+8. Pilih ``` Configure Buttons ``` untuk mengatur konfigurasi tombol perintah. Isi perintahnya seperti yang terlihat pada gambar berikut ini.
+
+   <img src="" alt="robot-buttons">
+
+   Keterangan :
+   
    - ``` F ``` -> fungsinya untuk bergerak ``` Maju ```.
    - ``` B ``` -> fungsinya untuk bergerak ``` Mundur ```.
    - ``` L ``` -> fungsinya untuk belok ``` Kiri ```.
    - ``` R ``` -> fungsinya untuk belok ``` Kanan ```.
    
-8. Antarmuka pengguna siap digunakan.
+9. Antarmuka pengguna siap digunakan.
 
 <br><br>
 
