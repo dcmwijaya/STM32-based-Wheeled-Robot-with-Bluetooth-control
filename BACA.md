@@ -150,20 +150,20 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    
 7. Lalu klik ``` simbol titik tiga di pojok kanan atas ``` seperti yang terlihat pada gambar di bawah ini.
 
-   <img src="" alt="3-dot">
+   <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/9c6d5670-2bd5-42b8-8155-590826dd009f" alt="3-dot">
   
 8. Pilih ``` Configure Buttons ``` untuk mengatur konfigurasi tombol perintah. Isi perintahnya seperti yang terlihat pada gambar berikut ini.
 
-   <img src="" alt="robot-buttons">
+   <img width="350" height="800" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/97687e16-d70a-43e1-b4c1-e2b6fecc92ea" alt="robot-buttons">
 
    Keterangan :
    
-   - ``` F ``` -> fungsinya untuk bergerak ``` Maju ```.
-   - ``` B ``` -> fungsinya untuk bergerak ``` Mundur ```.
    - ``` L ``` -> fungsinya untuk belok ``` Kiri ```.
    - ``` R ``` -> fungsinya untuk belok ``` Kanan ```.
+   - ``` F ``` -> fungsinya untuk bergerak ``` Maju ```.
+   - ``` B ``` -> fungsinya untuk bergerak ``` Mundur ```.
    
-9. Antarmuka pengguna siap digunakan.
+10. Antarmuka pengguna siap digunakan.
 
 <br><br>
 
