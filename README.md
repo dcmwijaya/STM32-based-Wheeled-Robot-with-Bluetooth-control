@@ -16,7 +16,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Code Editor | Arduino IDE |
 | Driver | USB-Serial CDM |
 | Programming Language | C/C++ |
-| Mobile App Platform | Arduino bluetooth controller |
+| Mobile App Platform | Arduino Bluetooth Controller |
 | Arduino Library | SoftwareSerial |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | SPP-C: Bluetooth Module (x1) |
@@ -132,6 +132,29 @@ In operation, this robot car requires a battery as its power supply. Then the us
    • Press the ``` RESET ``` button.
 
    • The program code is ready to operate, in which case there is no programming activity.
+
+<br><br>
+
+## Arduino Bluetooth Controller Setup
+1. Open your smartphone, then in the ``` Google Play Store ``` search for the ``` Arduino Bluetooth Controller ``` application, then install it.
+   
+2. Turn on the ``` bluetooth ``` on your smartphone.
+   
+3. Open the ``` Arduino Bluetooth Controller ``` app.
+   
+4. Make sure that the bluetooth device you are using is detected, for example: ``` HC-05 ``` / ``` SPP-C ``` / other.
+   
+5. Then ``` pair the device ```.
+   
+6. In the ``` HOME ``` menu -> Select the ``` CONTROLLER ``` feature.
+   
+7. You can set the direction of movement of this robot car through ``` Function1 ``` :
+   - ``` F ``` -> its function to move ``` Forward ```.
+   - ``` B ``` -> its function to move ``` Backward ```.
+   - ``` L ``` -> its function to turn ``` Left ```.
+   - ``` R ``` -> its function to turn ``` Right ```.
+   
+8. User interface ready to use.
 
 <br><br>
 
