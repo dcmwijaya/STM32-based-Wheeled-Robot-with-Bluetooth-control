@@ -163,7 +163,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    - ``` F ``` -> fungsinya untuk bergerak ``` Maju ```.
    - ``` B ``` -> fungsinya untuk bergerak ``` Mundur ```.
    
-10. Antarmuka pengguna siap digunakan.
+9. Antarmuka pengguna siap digunakan.
 
 <br><br>
 
