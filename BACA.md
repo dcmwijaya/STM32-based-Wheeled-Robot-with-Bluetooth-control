@@ -151,8 +151,8 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 7. Arah pergerakan robot mobil ini dapat anda manipulasi melalui ``` Function1 ``` :
    - ``` F ``` -> fungsinya untuk bergerak ``` Maju ```.
    - ``` B ``` -> fungsinya untuk bergerak ``` Mundur ```.
-   - ``` L ``` -> fungsinya untuk bergerak ``` Kiri ```.
-   - ``` R ``` -> fungsinya untuk bergerak ``` Kanan ```.
+   - ``` L ``` -> fungsinya untuk belok ``` Kiri ```.
+   - ``` R ``` -> fungsinya untuk belok ``` Kanan ```.
    
 8. Antarmuka pengguna siap digunakan.
 
