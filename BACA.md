@@ -16,7 +16,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 | Editor Kode | Arduino IDE |
 | Driver | USB-Serial CDM |
 | Bahasa Pemrograman | C/C++ |
-| Platform Aplikasi Seluler | Arduino bluetooth controller |
+| Platform Aplikasi Seluler | Arduino Bluetooth Controller |
 | Pustaka Arduino | SoftwareSerial |
 | Aktuator | Motor Gear / Motor DC (x2) |
 | Sensor | SPP-C: Modul Bluetooth (x1) |
@@ -132,6 +132,25 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    • Tekan tombol ``` RESET ```.
 
    • Kode program siap dioperasikan, dalam hal ini sudah tidak ada aktivitas pemrograman.
+
+<br><br>
+
+## Pengaturan Arduino Bluetooth Controller
+1. Buka ponsel cerdas anda, lalu pada ``` Google Play Store ``` cari aplikasi ``` Arduino Bluetooth Controller ```, kemudian lakukan instalasi.
+   
+2. Hidupkan ``` bluetooth ``` yang ada di ponsel cerdas anda.
+   
+3. Buka aplikasi ``` Arduino Bluetooth Controller ```.
+   
+4. Pastikan perangkat bluetooth yang anda gunakan itu terdeteksi, misalnya: ``` HC-05 ``` / ``` SPP-C ``` / lainnya.
+   
+5. Kemudian ``` memasangkan perangkat ```.
+   
+6. Pada menu ``` Home ``` -> Pilih fitur ``` CONTROLLER ```.
+   
+7. Buatlah perintah untuk pengendalian arah robot: ``` maju ```, ``` mundur ```, ``` kiri ```, ``` kanan ``` pada bagian ``` Function1 ```.
+   
+8. Antarmuka pengguna siap digunakan.
 
 <br><br>
 
