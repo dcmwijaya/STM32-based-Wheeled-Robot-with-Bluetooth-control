@@ -148,7 +148,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    
 6. Pada menu ``` Home ``` -> Pilih fitur ``` CONTROLLER ```.
    
-7. Buatlah perintah untuk pengendalian arah robot: ``` maju ```, ``` mundur ```, ``` kiri ```, ``` kanan ``` pada bagian ``` Function1 ```.
+7. Buatlah pengendalian arah robot: ``` maju ```, ``` mundur ```, ``` kiri ```, ``` kanan ``` pada bagian ``` Function1 ```.
    
 8. Antarmuka pengguna siap digunakan.
 
