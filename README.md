@@ -71,7 +71,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 <br><br>
 
 ## Arduino IDE Setup
-1. Open the ``` Arduino IDE ``` first, then open the project by clicking: ``` File ``` -> ``` Open ``` -> ``` stm32_btrc_car_robot.ino ```.<br><br>
+1. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` -> ``` stm32_btrc_car_robot.ino ```.<br><br>
    
 2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE<br><br>
    • Method: click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
