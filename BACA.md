@@ -106,13 +106,17 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    
    • Pastikan belum mengunggah program.
    
-   • Pastikan posisi jumper ``` BOOT0 ``` pada posisi ``` 1 ```.
+   • Pastikan posisi ``` jumper BOOT0 ``` yang ada pada ``` STM32F1 ``` berada pada posisi ``` 1 ```.
    
-   • Pastikan posisi jumper ``` BOOT1 ``` pada posisi ``` 0 ```.
+   • Pastikan posisi ``` jumper BOOT1 ``` yang ada pada ``` STM32F1 ``` berada pada posisi ``` 0 ```.
 
-   • Sambungkan board STM32F103C8T6 ini ke FTDI -> lalu dari FTDI sambungkan ke PC/Laptop Anda.
+   • Pastikan posisi ``` jumper Vout ``` yang ada pada ``` FTDI ``` berada pada posisi ``` 3.3V ```.
+
+   • Sambungkan ``` board STM32F103C8T6 ``` ini ke ``` FTDI ```.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/4d388a2a-b4ad-43c5-be59-8725e34bf357" alt="programming-mode">
+      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/3673fac7-49e1-43e7-8c7a-1bfaf060d7cb" alt="programming-mode">
+   
+   • Kemudian sambungkan ``` FTDI ``` ke ``` PC/Laptop ``` anda dengan kabel ``` Mini USB - USB tipe A ```.
    
    • Tekan tombol ``` RESET ```.
 
@@ -122,15 +126,17 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    
    • Pastikan telah mengunggah program.
 
-   • Lepaskan FTDI dari perangkat.
+   • Lepaskan ``` FTDI ``` dari perangkat.
    
-   • Pastikan posisi jumper ``` BOOT0 ``` dan ``` BOOT1 ``` pada posisi ``` 0 ```.
+   • Pastikan posisi ``` jumper BOOT0 & BOOT1 ``` yang ada pada ``` STM32F1 ``` berada pada posisi ``` 0 ```.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/7a846129-375d-4735-8771-50a7186d141c" alt="operating-mode">
+      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/25e28727-b9bf-4218-9919-a5c807b8cb44" alt="operating-mode">
    
-   • Tekan tombol ``` RESET ```.
+   • Tekan tombol ``` RESET ```. Dalam hal ini sudah tidak ada aktivitas pemrograman.
 
-   • Kode program siap dioperasikan, dalam hal ini sudah tidak ada aktivitas pemrograman.
+   • Kode program siap untuk dioperasikan.
+
+   • Untuk menghidupkan ``` board STM32F1 ``` ini, anda dapat menggunakan catu daya eksternal seperti baterai atau yang lainnya.
 
 <br><br>
 
