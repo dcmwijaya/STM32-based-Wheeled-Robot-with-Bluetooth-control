@@ -106,13 +106,15 @@ In operation, this robot car requires a battery as its power supply. Then the us
    
    • Make sure you haven't uploaded the program.
    
-   • Make sure the jumper position ``` BOOT0 ``` is at position ``` 1 ```.
+   • Make sure the ``` BOOT0 jumper ``` position on the ``` STM32F1 ``` is in position ``` 1 ```.
    
-   • Make sure the jumper position ``` BOOT1 ``` is at position ``` 0 ```.
+   • Make sure the ``` BOOT1 jumper ``` position on the ``` STM32F1 ``` is at position ``` 0 ```.
+   
+   • Make sure the ``` Vout jumper ``` position on the ``` FTDI ``` is at position ``` 3.3V ```.
 
-   • Connect this STM32F103C8T6 board to FTDI -> then from FTDI connect to your PC/Laptop.
+   • Connect this ``` STM32F103C8T6 board ``` to ``` FTDI ``` -> then from ``` FTDI ``` connect to your ``` PC/Laptop ```.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/4d388a2a-b4ad-43c5-be59-8725e34bf357" alt="programming-mode">
+      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/3673fac7-49e1-43e7-8c7a-1bfaf060d7cb" alt="programming-mode">
    
    • Press the ``` RESET ``` button.
    
@@ -122,11 +124,11 @@ In operation, this robot car requires a battery as its power supply. Then the us
    
    • Make sure to upload the program.
 
-   • Remove the FTDI from the device.
+   • Remove the ``` FTDI ``` from the device.
    
-   • Make sure the jumper position ``` BOOT0 ``` and ``` BOOT1 ``` is at position ``` 0 ```.
+   • Make sure the ``` BOOT0 & BOOT1 jumper ``` position on the ``` STM32F1 ``` is at position ``` 0 ```.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/7a846129-375d-4735-8771-50a7186d141c" alt="operating-mode">
+      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/25e28727-b9bf-4218-9919-a5c807b8cb44" alt="operating-mode">
    
    • Press the ``` RESET ``` button.
 
