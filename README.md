@@ -56,7 +56,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/85978010-4eb6-4a6b-ad12-c6c0dd551e97" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/14f48e49-1808-4fca-abf7-1706b972c66a" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/e7b54873-5b4a-4def-9767-8100697fac99" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>
@@ -113,7 +113,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
    • Connect this STM32F103C8T6 board to FTDI -> then from FTDI connect to your PC/Laptop.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/c98d7919-615d-4ab4-ac90-44a755fc9fb6" alt="programming-mode">
+      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/4d388a2a-b4ad-43c5-be59-8725e34bf357" alt="programming-mode">
    
    • Press the ``` RESET ``` button.
    
@@ -127,7 +127,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
    
    • Make sure the jumper position ``` BOOT0 ``` and ``` BOOT1 ``` is at position ``` 0 ```.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/98da8ef3-58e3-4392-a357-ae826265a036" alt="operating-mode">
+      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/7a846129-375d-4735-8771-50a7186d141c" alt="operating-mode">
    
    • Press the ``` RESET ``` button.
 
