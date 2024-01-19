@@ -112,10 +112,12 @@ In operation, this robot car requires a battery as its power supply. Then the us
    
    • Make sure the ``` Vout jumper ``` position on the ``` FTDI ``` is at position ``` 3.3V ```.
 
-   • Connect this ``` STM32F103C8T6 board ``` to ``` FTDI ``` -> then from ``` FTDI ``` connect to your ``` PC/Laptop ```.
+   • Connect this ``` STM32F103C8T6 board ``` to ``` FTDI ```.
       
       <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/3673fac7-49e1-43e7-8c7a-1bfaf060d7cb" alt="programming-mode">
-   
+
+   • Then connect the ``` FTDI ``` to your ``` PC/Laptop ``` with a ``` Mini USB - USB type A ``` cable.
+
    • Press the ``` RESET ``` button.
    
    • Compile and upload your program through a code editor, in this case the ``` Arduino IDE ```.<br><br><br>
@@ -130,9 +132,11 @@ In operation, this robot car requires a battery as its power supply. Then the us
       
       <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/25e28727-b9bf-4218-9919-a5c807b8cb44" alt="operating-mode">
    
-   • Press the ``` RESET ``` button.
+   • Press the ``` RESET ``` button. In which case there is no programming activity.
 
-   • The program code is ready to operate, in which case there is no programming activity.
+   • The program code is ready to operate.
+
+   • To power up this ``` STM32F1 board ```, you can use an external power supply such as a battery or something else.
 
 <br><br>
 
