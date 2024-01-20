@@ -16,7 +16,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Code Editor | Arduino IDE |
 | Driver | USB-Serial CDM |
 | Programming Language | C/C++ |
-| Mobile App Platform | Arduino Bluetooth Controller |
+| Mobile App Platform | Coming Soon.... |
 | Arduino Library | SoftwareSerial |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | SPP-C: Bluetooth Module (x1) |
@@ -138,35 +138,8 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
 <br><br>
 
-## Arduino Bluetooth Controller Setup
-1. Open your smartphone, then in the ``` Google Play Store ``` search for an application called ``` Arduino Bluetooth Controller ``` made by ``` MyValley Apps ```, then install it.
-   
-2. Turn on the ``` bluetooth ``` on your smartphone.
-   
-3. Open the ``` Arduino Bluetooth Controller ``` app.
-   
-4. Make sure that the bluetooth device you are using is detected, for example: ``` HC-05 ``` / ``` SPP-C ``` / other.
-   
-5. Then ``` pair the device ```.
-   
-6. In the ``` HOME ``` menu -> select ``` CONTROLLER ``` -> wait a moment for the display to appear.
-   
-7. Then click the ``` three dots in the upper right corner ``` symbol as shown in the image below.
-   
-   <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/9c6d5670-2bd5-42b8-8155-590826dd009f" alt="3-dot">
-  
-8. Select ``` Configure Buttons ``` to set the command button configuration. Fill in the command as shown in the following image.
-
-   <img width="350" height="800" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/97687e16-d70a-43e1-b4c1-e2b6fecc92ea" alt="robot-buttons">
-
-   Description :
-   
-   - ``` L ``` -> its function to turn ``` Left ```.
-   - ``` R ``` -> its function to turn ``` Right ```.
-   - ``` F ``` -> its function to move ``` Forward ```.
-   - ``` B ``` -> its function to move ``` Backward ```.
-   
-9. User interface ready to use.
+## Bluetooth Controller Setup
+Coming Soon....
 
 <br><br>
 
@@ -184,7 +157,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 <br><br>
 
 ## Highlights
-Coming Soon....
+<img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/8cc918a3-6a37-4f63-ab0c-0a426ced48ab" alt="rc-car-robot">
 
 <br><br>
 
