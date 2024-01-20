@@ -106,7 +106,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
    
    • Make sure you haven't uploaded the program.
    
-   • Make sure the ``` BOOT0 jumper ``` position on the ``` STM32F1 ``` is in position ``` 1 ```.
+   • Make sure the ``` BOOT0 jumper ``` position on the ``` STM32F1 ``` is at position ``` 1 ```.
    
    • Make sure the ``` BOOT1 jumper ``` position on the ``` STM32F1 ``` is at position ``` 0 ```.
    
