@@ -118,7 +118,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
    • Then connect the ``` FTDI ``` to your ``` PC/Laptop ``` with a ``` Mini USB - USB type A ``` cable.
 
-   • Press the ``` RESET ``` button.
+   • Press the ``` Reset ``` button so that all programs embedded in this ``` STM32 board ``` become clean (ready to be reprogrammed).
    
    • Compile and upload your program through a code editor, in this case the ``` Arduino IDE ```.<br><br><br>
    
