@@ -16,7 +16,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 | Editor Kode | Arduino IDE |
 | Driver | USB-Serial CDM |
 | Bahasa Pemrograman | C/C++ |
-| Platform Aplikasi Seluler | Arduino Bluetooth Controller |
+| Platform Aplikasi Seluler | Segera hadir.... |
 | Pustaka Arduino | SoftwareSerial |
 | Aktuator | Motor Gear / Motor DC (x2) |
 | Sensor | SPP-C: Modul Bluetooth (x1) |
@@ -138,35 +138,8 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 
 <br><br>
 
-## Pengaturan Arduino Bluetooth Controller
-1. Buka ponsel cerdas anda, lalu pada ``` Google Play Store ``` cari aplikasi yang bernama ``` Arduino Bluetooth Controller ``` buatan ``` MyValley Apps ```, kemudian lakukan instalasi.
-   
-2. Hidupkan ``` bluetooth ``` yang ada di ponsel cerdas anda.
-   
-3. Buka aplikasi ``` Arduino Bluetooth Controller ```.
-   
-4. Pastikan perangkat bluetooth yang anda gunakan itu terdeteksi, misalnya: ``` HC-05 ``` / ``` SPP-C ``` / lainnya.
-   
-5. Kemudian ``` memasangkan perangkat ```.
-   
-6. Pada menu ``` HOME ``` -> pilih ``` CONTROLLER ``` -> tunggu sebentar sampai tampilannya muncul.
-   
-7. Lalu klik ``` simbol titik tiga di pojok kanan atas ``` seperti yang terlihat pada gambar di bawah ini.
-
-   <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/9c6d5670-2bd5-42b8-8155-590826dd009f" alt="3-dot">
-  
-8. Pilih ``` Configure Buttons ``` untuk mengatur konfigurasi tombol perintah. Isi perintahnya seperti yang terlihat pada gambar berikut ini.
-
-   <img width="350" height="800" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/97687e16-d70a-43e1-b4c1-e2b6fecc92ea" alt="robot-buttons">
-
-   Keterangan :
-   
-   - ``` L ``` -> fungsinya untuk belok ``` Kiri ```.
-   - ``` R ``` -> fungsinya untuk belok ``` Kanan ```.
-   - ``` F ``` -> fungsinya untuk bergerak ``` Maju ```.
-   - ``` B ``` -> fungsinya untuk bergerak ``` Mundur ```.
-   
-9. Antarmuka pengguna siap digunakan.
+## Pengaturan Bluetooth Controller
+Segera hadir....
 
 <br><br>
 
