@@ -118,7 +118,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    
    • Kemudian sambungkan ``` FTDI ``` ke ``` PC/Laptop ``` anda dengan kabel ``` Mini USB - USB tipe A ```.
    
-   • Tekan tombol ``` RESET ```.
+   • Tekan tombol ``` RESET ``` untuk menghapus program yang telah disematkan sebelumnya. Pada saat yang sama, papan STM32 ini siap diprogram ulang.
 
    • Kompilasi dan unggah program anda melalui editor kode, dalam hal ini ``` Arduino IDE ```.<br><br><br>
    
