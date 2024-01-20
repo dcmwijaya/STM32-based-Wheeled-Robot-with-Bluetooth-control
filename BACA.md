@@ -132,7 +132,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
       
       <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/25e28727-b9bf-4218-9919-a5c807b8cb44" alt="operating-mode">
    
-   • Kode program siap untuk dioperasikan. Dalam hal ini sudah tidak ada aktivitas pemrograman.
+   • Kode program yang telah tertanam dalam ``` board STM32 ``` ini siap untuk dioperasikan (sudah tidak ada aktivitas pemrograman lagi).
 
    • Untuk menghidupkan ``` board STM32F1 ``` ini, anda dapat menggunakan catu daya eksternal seperti baterai atau yang lainnya.
 
