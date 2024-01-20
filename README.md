@@ -20,7 +20,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Arduino Library | SoftwareSerial |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | SPP-C: Bluetooth Module (x1) |
-| Other Components | Mini USB cable - USB type A (x1), Mini USB cable - 2 pin JST (x1), Jumper cable (1 set), FTDI FT232RL (x1), KCD11: Rocker Switch SPST (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x2), Caster wheel (x1), Motor driver L298N (x1), Car robot frame (x1), Spicer bolts (1 set), Bolts plus (1 set), and Nuts (1 set) |
+| Other Components | Mini USB cable - USB type A (x1), Micro USB cable - 2 pin JST (x1), Jumper cable (1 set), FTDI FT232RL (x1), KCD11: Rocker Switch SPST (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x2), Caster wheel (x1), Motor driver L298N (x1), Car robot frame (x1), Spicer bolts (1 set), Bolts plus (1 set), and Nuts (1 set) |
 
 <br><br>
 
@@ -132,9 +132,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
       
       <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/25e28727-b9bf-4218-9919-a5c807b8cb44" alt="operating-mode">
    
-   • Press the ``` RESET ``` button. In which case there is no programming activity.
-
-   • The program code is ready to operate.
+   • The program code is ready to operate. In which case there is no programming activity.
 
    • To power up this ``` STM32F1 board ```, you can use an external power supply such as a battery or something else.
 
