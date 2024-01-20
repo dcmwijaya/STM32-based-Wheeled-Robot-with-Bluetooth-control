@@ -132,7 +132,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
       
       <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/25e28727-b9bf-4218-9919-a5c807b8cb44" alt="operating-mode">
    
-   • The program code is ready to operate. In which case there is no programming activity.
+   • The program code that has been embedded in this ``` STM32 board ``` is ready for operation (no more programming activities).
 
    • To power up this ``` STM32F1 board ```, you can use an external power supply such as a battery or something else.
 
