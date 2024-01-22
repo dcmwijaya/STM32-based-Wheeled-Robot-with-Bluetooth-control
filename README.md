@@ -79,10 +79,10 @@ In operation, this robot car requires a battery as its power supply. Then the us
    ```
    
 3. ``` Board Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` STM32 Cores ```. Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` STM32 Boards ``` -> ``` Generic STM32F1 series ```.<br><br>
+   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` STM32 MCU based boards ```. Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` STM32 boards groups ``` -> ``` Generic STM32F1 series ```.<br><br>
    
 4. ``` Change Board Part Number ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Board part number ``` -> ``` Blue Pill F103C8 ```.<br><br>
+   • Method: click ``` Tools ``` -> ``` Board part number ``` -> ``` BluePill F103C8 ```.<br><br>
    
 5. ``` Change U(S)ART Support ``` in Arduino IDE<br><br>
    • Method: click ``` Tools ``` -> ``` U(S)ART Support ``` -> ``` Enabled (generic 'Serial') ```.<br><br>
