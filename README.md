@@ -17,7 +17,6 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Driver | USB-Serial CDM |
 | Programming Language | C/C++ |
 | Mobile App Platform | Coming Soon.... |
-| Arduino Library | SoftwareSerial |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | SPP-C: Bluetooth Module (x1) |
 | Other Components | Mini USB cable - USB type A (x1), Micro USB cable - 2 pin JST (x1), Jumper cable (1 set), FTDI FT232RL (x1), KCD11: Rocker Switch SPST (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x2), Caster wheel (x1), Motor driver L298N (x1), Car robot frame (x1), Spicer bolts (1 set), Bolts plus (1 set), and Nuts (1 set) |
@@ -76,7 +75,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
    • Method: click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
    
    ```
-   https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json
+   https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
    ```
    
 3. ``` Board Setup ``` in Arduino IDE<br><br>
