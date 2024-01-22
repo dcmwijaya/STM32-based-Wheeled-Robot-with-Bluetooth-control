@@ -17,7 +17,6 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 | Driver | USB-Serial CDM |
 | Bahasa Pemrograman | C/C++ |
 | Platform Aplikasi Seluler | Segera hadir.... |
-| Pustaka Arduino | SoftwareSerial |
 | Aktuator | Motor Gear / Motor DC (x2) |
 | Sensor | SPP-C: Modul Bluetooth (x1) |
 | Komponen Lainnya | Kabel Mini USB - USB tipe A (x1), Kabel Mikro USB - JST 2 pin (x1), Kabel jumper (1 set), FTDI FT232RL (x1), KCD11: Saklar Pengayun SPST (x1), Baterai Li-ion 18650 (x2), Tempat baterai seri 2 slot (x1), Roda robot (x2), Roda kastor (x1), Motor driver L298N (x1), Kerangka robot mobil (x1), Baut spicer (1 set), Baut plus (1 set), dan Mur (1 set) |
@@ -76,7 +75,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    • Cara: klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
    
    ```
-   https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json
+   https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
    ```
    
 3. ``` Pengaturan Board ``` di Arduino IDE<br><br>
