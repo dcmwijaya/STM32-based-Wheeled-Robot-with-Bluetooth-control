@@ -138,19 +138,21 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 <br><br>
 
 ## Pengaturan Bluetooth RC Controller
-1. Buka direktori ``` Assets/APK ``` untuk mendapatkan aplikasi yang bernama ``` Bluetooth RC Controller ``` -> kemudian lakukan instalasi.
+1. Buka direktori ``` Assets/APK ``` untuk mendapatkan aplikasi yang bernama ``` Bluetooth RC Controller ``` -> kemudian instal aplikasi tersebut pada ponsel cerdas anda.
    
-2. Hidupkan ``` bluetooth ``` -> cari perangkat bluetooth yang bernama ``` JDY-31-SPP ```.
+2. Buka aplikasi ``` Bluetooth RC Controller ```.
    
-3. Kemudian ``` memasangkan perangkat ``` dengan memasukkan kata sandi: ``` 0000 ``` atau ``` 1234 ```.
+3. Hidupkan ``` bluetooth ```.
    
-4. Buka aplikasi ``` Bluetooth RC Controller ```.
+4. Klik tombol ``` gerigi ``` -> pilih ``` Connect to car ```.
    
-5. Klik tombol ``` gerigi ``` -> pada ``` Option Menu ``` silakan pilih ``` Connect to car ``` -> lalu klik ``` JDY-31-SPP ``` yang ada pada bagian ``` Paired Devices ```.
-  
-6. Antarmuka pengguna siap digunakan. Hal ini seperti yang terlihat pada gambar berikut.
+5. Klik tombol ``` Scan for devices ``` -> pilih ``` JDY-31-SPP ```.
 
-   <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/f90bf0c6-803d-4bed-be28-49ee3fb53c26" alt="user-interface">
+6. Kemudian ``` menyandingkan perangkat ``` dengan memasukkan kata sandi: ``` 0000 ``` atau ``` 1234 ```.
+  
+7. Antarmuka pengguna siap digunakan. Hal ini seperti yang terlihat pada gambar berikut.
+
+   <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/6ccfbbaa-a972-4437-a08d-2b40755badef" alt="user-interface">
 
 <br><br>
 
