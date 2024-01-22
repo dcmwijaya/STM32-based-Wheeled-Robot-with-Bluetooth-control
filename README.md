@@ -90,13 +90,10 @@ In operation, this robot car requires a battery as its power supply. Then the us
 6. ``` Change Upload Method ``` in Arduino IDE<br><br>
    • Method: click ``` Tools ``` -> ``` Upload method ``` -> ``` STM32CubeProgrammer (Serial) ```.<br><br>
    
-7. ``` Install Library ``` in Arduino IDE<br><br>
-   • Method: download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
-
-8. ``` Port Setup ``` in Arduino IDE<br><br>
+7. ``` Port Setup ``` in Arduino IDE<br><br>
    • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
 
-9. Please click: ``` Upload ```.
+8. Please click: ``` Upload ```.
 
 <br><br>
 
