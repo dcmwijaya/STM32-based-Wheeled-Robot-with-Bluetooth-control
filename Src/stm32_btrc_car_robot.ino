@@ -5,7 +5,7 @@ const int motorB1 = PB6; // PB6 pin to rotate the left motor direction backward
 const int motorB2 = PB7; // PB7 pin to rotate the left motor direction forward
 const int enable_motorB = PB8; // PB8 pin to enable motor B
 
-String cmd; // Initialize a cmd variable with string data type
+char cmd; // Initialize a cmd variable with string data type
 
 // Methods setup
 void setup(){
@@ -20,12 +20,12 @@ void setup(){
 
 // Methods loop
 void loop(){  
+  if(Serial.available() > 0) { cmd = Serial.read(); } // Bluetooth sensor readings
   analogWrite(enable_motorA, 200); analogWrite(enable_motorB, 200); // Controlling speed (0 = off and 255 = max speed)
-  if(Serial.available()>0){ cmd = Serial.read(); } // Bluetooth sensor readings
-  if(cmd == "F"){ forward(); } // If the button whose value is "F" is pressed, the robot car will move forward
-  if(cmd == "B"){ backward(); } // If the button whose value is "B" is pressed, the robot car will move backward
-  if(cmd == "L"){ left(); } // If the button whose value is "L" is pressed, the robot car will turn left
-  if(cmd == "R"){ right(); } // If the button whose value is "R" is pressed, the robot car will turn right
+  if(cmd == 'F'){ forward(); } // If the button whose value is "F" is pressed, the robot car will move forward
+  if(cmd == 'B'){ backward(); } // If the button whose value is "B" is pressed, the robot car will move backward
+  if(cmd == 'L'){ left(); } // If the button whose value is "L" is pressed, the robot car will turn left
+  if(cmd == 'R'){ right(); } // If the button whose value is "R" is pressed, the robot car will turn right
   stop(); // Normal state all motors off
 }
 
@@ -56,5 +56,4 @@ void right(){
 // Methods stop
 void stop(){
   digitalWrite(motorA1, LOW); digitalWrite(motorA2, LOW); digitalWrite(motorB1, LOW); digitalWrite(motorB2, LOW); // Command to stop
-  cmd=""; // Command to reset
 }
