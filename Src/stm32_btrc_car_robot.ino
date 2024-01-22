@@ -5,7 +5,7 @@ const int motorB1 = PB6; // PB6 pin to rotate the left motor direction backward
 const int motorB2 = PB7; // PB7 pin to rotate the left motor direction forward
 const int enable_motorB = PB8; // PB8 pin to enable motor B
 
-char cmd; // Initialize a cmd variable with string data type
+char cmd; // Initialize a cmd variable with Character (Char) data type
 
 // Methods setup
 void setup(){
