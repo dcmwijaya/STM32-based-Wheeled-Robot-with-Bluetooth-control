@@ -90,13 +90,10 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 6. ``` Ubah Metode Pengunggahan ``` di Arduino IDE<br><br>
    • Cara: klik ``` Tools ``` -> ``` Upload method ``` -> ``` STM32CubeProgrammer (Serial) ```.<br><br>
    
-7. ``` Instal Pustaka ``` di Arduino IDE<br><br>
-   • Cara: unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
-
-8. ``` Pengaturan Port ``` di Arduino IDE<br><br>
+7. ``` Pengaturan Port ``` di Arduino IDE<br><br>
    • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
 
-9. Silakan klik: ``` Upload ```.
+8. Silakan klik: ``` Upload ```.
 
 <br><br>
 
