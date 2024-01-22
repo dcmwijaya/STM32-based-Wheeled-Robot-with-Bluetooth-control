@@ -138,7 +138,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 <br><br>
 
 ## Pengaturan Bluetooth RC Controller
-1. Buka direktori ``` Assets/APK ``` untuk mendapatkan aplikasi yang bernama ``` Bluetooth RC Controller ``` -> kemudian instal aplikasi tersebut pada ponsel cerdas anda.
+1. Buka direktori ``` Assets/APK ``` untuk mendapatkan aplikasi yang bernama ``` Bluetooth RC Controller ``` -> kemudian instal aplikasi tersebut pada gawai anda.
    
 2. Buka aplikasi ``` Bluetooth RC Controller ```.
    
