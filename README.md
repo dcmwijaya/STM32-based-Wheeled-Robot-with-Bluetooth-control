@@ -138,19 +138,21 @@ In operation, this robot car requires a battery as its power supply. Then the us
 <br><br>
 
 ## Bluetooth RC Controller Setup
-1. Go to ``` Assets/APK ``` directory to get the app called ``` Bluetooth RC Controller ``` -> then do the installation.
+1. Go to ``` Assets/APK ``` directory to get the app called ``` Bluetooth RC Controller ``` -> then install the app on your gadget.
    
-2. Turn on ``` bluetooth ``` -> look for a bluetooth device called ``` JDY-31-SPP ```.
+2. Open ``` Bluetooth RC Controller ``` app.
    
-3. Then ``` pair the device ``` by entering the password: ``` 0000 ``` or ``` 1234 ```.
+3. Turn on ``` bluetooth ```. 
    
-4. Open ``` Bluetooth RC Controller ``` app.
+4. Click ``` gear ``` button -> select ``` Connect to car ```.
    
-5. Click ``` gear ``` button -> on ``` Option Menu ``` please select ``` Connect to car ``` -> then click ``` JDY-31-SPP ``` in the ``` Paired Devices ``` section.
-  
-6. The user interface is ready to use. This is as seen in the following image.
+5. Click ``` Scan for devices ``` button -> select ``` JDY-31-SPP ```.
 
-   <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/f90bf0c6-803d-4bed-be28-49ee3fb53c26" alt="user-interface">
+6. Then ``` pairing device ``` by entering the password: ``` 0000 ``` or ``` 1234 ```.
+  
+7. The user interface is ready to use. This is as seen in the following image.
+
+   <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/6ccfbbaa-a972-4437-a08d-2b40755badef" alt="user-interface">
 
 <br><br>
 
