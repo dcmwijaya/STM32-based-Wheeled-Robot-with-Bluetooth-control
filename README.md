@@ -19,7 +19,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Programming Language | C/C++ |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | JDY-31 SPP-C: Bluetooth Module (x1) |
-| Other Components | Mini USB cable - USB type A (x1), Micro USB cable - 2 pin JST (x1), Jumper cable (1 set), FTDI FT232RL (x1), KCD11: Rocker Switch SPST (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x2), Caster wheel (x1), Motor driver L298N (x1), Car robot frame (x1), Spicer bolts (1 set), Bolts plus (1 set), and Nuts (1 set) |
+| Other Components | Mini USB cable - USB type A (x1), Micro USB cable - 2 pin JST (x1), Jumper cable (1 set), USB-Serial TTL: FTDI FT232RL (x1), KCD11: Rocker Switch SPST (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x2), Caster wheel (x1), Motor driver L298N (x1), Car robot frame (x1), Spicer bolts (1 set), Bolts plus (1 set), and Nuts (1 set) |
 
 <br><br>
 
