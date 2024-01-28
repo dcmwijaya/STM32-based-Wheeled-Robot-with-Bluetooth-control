@@ -12,7 +12,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 ## Project Requirements
 | Media | Description |
 | --- | --- |
-| Board Development | STM32F103C8T6 |
+| Development Board | STM32F103C8T6 |
 | Code Editor | Arduino IDE |
 | Application Support | STM32CubeProgrammer, Bluetooth RC Controller |
 | Driver | USB-Serial CDM |
