@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-STM32-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 # STM32-based-Bluetooth-Radio-Control-Car-Robot
-<strong>Proyek Tunggal Robot Mobil BTRC berbasis STM32</strong><br><br>
+<strong>Proyek Tunggal: Robot Mobil BTRC berbasis STM32</strong><br><br>
 Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya. Kemudian pengguna dapat mengontrol pergerakannya dengan menggunakan sinyal bluetooth. Jika penerima dekat dengan pemancar, maka sinyal yang dihasilkan akan semakin kuat, sedangkan sebaliknya, sinyal yang dihasilkan akan semakin lemah.
 
 <br><br>
