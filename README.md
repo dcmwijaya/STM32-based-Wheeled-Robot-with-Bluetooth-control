@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-STM32-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 # STM32-based-Bluetooth-Radio-Control-Car-Robot
-<strong>Solo Project STM32-based BTRC Car Robot</strong><br><br>
+<strong>Solo Project: STM32-based BTRC Car Robot</strong><br><br>
 In operation, this robot car requires a battery as its power supply. Then the user can control its movement by using a bluetooth signal. If the receiver is close to the transmitter, the signal generated will be stronger, while on the contrary, the signal generated will be weaker.
 
 <br><br>
