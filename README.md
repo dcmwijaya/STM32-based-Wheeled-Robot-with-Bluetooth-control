@@ -10,7 +10,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 <br><br>
 
 ## Project Requirements
-| Media | Description |
+| Part | Description |
 | --- | --- |
 | Development Board | STM32F103C8T6 |
 | Code Editor | Arduino IDE |
