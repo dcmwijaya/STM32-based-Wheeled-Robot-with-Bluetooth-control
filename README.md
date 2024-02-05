@@ -15,7 +15,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Development Board | STM32F103C8T6 |
 | Code Editor | Arduino IDE |
 | Application Support | STM32CubeProgrammer, Bluetooth RC Controller |
-| Programmer | FTDI FT232RL |
+| Programmer Tools | FTDI FT232RL |
 | Driver | USB-Serial CDM |
 | Programming Language | C/C++ |
 | Actuators | Gear Motor / Motor DC (x2) |
