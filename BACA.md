@@ -131,7 +131,10 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    
    • Kode program yang telah tertanam dalam ``` board STM32 ``` ini siap untuk dioperasikan (sudah tidak ada aktivitas pemrograman lagi).
 
-   • Untuk menghidupkan ``` board STM32F1 ``` ini, anda dapat menggunakan catu daya eksternal seperti baterai atau yang lainnya.
+   • Untuk menghidupkan ``` board STM32F1 ``` ini, anda dapat menggunakan catu daya eksternal seperti baterai atau yang lainnya.<br><br><br>
+
+<strong>Catatan :</strong><br><br>
+Untuk mengunggah program, selain menggunakan ``` FTDI FT232RL ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` ST-Link/V2 ``` ataupun ``` PL2303 ```.
 
 <br><br>
 
