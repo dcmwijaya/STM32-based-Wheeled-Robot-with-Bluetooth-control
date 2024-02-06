@@ -131,7 +131,10 @@ In operation, this robot car requires a battery as its power supply. Then the us
    
    • The program code that has been embedded in this ``` STM32 board ``` is ready for operation (no more programming activities).
 
-   • To power up this ``` STM32F1 board ```, you can use an external power supply such as a battery or something else.
+   • To power up this ``` STM32F1 board ```, you can use an external power supply such as a battery or something else.<br><br><br>
+
+<strong>Notes :</strong><br><br>
+To upload the program, besides using the ``` FTDI FT232RL ```, you can also use other programming tools such as: ``` ST-Link/V2 ``` or ``` PL2303 ```.
 
 <br><br>
 
