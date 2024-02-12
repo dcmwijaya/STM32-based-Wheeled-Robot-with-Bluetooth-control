@@ -70,35 +70,80 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 <br><br>
 
 ## Pengaturan Arduino IDE
-1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik: ``` File ``` -> ``` Open ``` -> ``` stm32_btrc_car_robot.ino ```.<br><br>
-   
-2. Isi ``` Url Pengelola Papan Tambahan ``` di Arduino IDE<br><br>
-   • Cara: klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
-   
-   ```
-   https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
-   ```
-   
-3. ``` Pengaturan Board ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` STM32 MCU based boards ```. Kemudian pilih Board dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` STM32 boards groups ``` -> ``` Generic STM32F1 series ```.<br><br>
-   
-4. ``` Ubah Nomor Bagian Papan ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Board part number ``` -> ``` BluePill F103C8 ```.<br><br>
-   
-5. ``` Ubah Dukungan U(S)ART ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` U(S)ART Support ``` -> ``` Enabled (generic 'Serial') ```.<br><br>
+1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek ini dengan cara klik ``` File ``` -> ``` Open ``` :
 
-6. ``` Ubah Metode Pengunggahan ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Upload method ``` -> ``` STM32CubeProgrammer (Serial) ```.<br><br>
+   <table><tr><td width="810">
+      
+      ``` stm32_btrc_car_robot.ino ```
+
+   </td></tr></table><br>
    
-7. ``` Pengaturan Port ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
+2. Isi ``` Url Pengelola Papan Tambahan ``` di Arduino IDE
+
+   <table><tr><td width="810">
+      
+      Klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
+      
+      ```
+      https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
+      ```
+
+   </td></tr></table><br>
+   
+3. ``` Pengaturan Board ``` di Arduino IDE
+
+   <table>
+      <tr><th width="810">
+
+      Cara mengatur board ``` STM32F103C8T6 ```
+            
+      </th></tr>
+      <tr><td>
+      
+      • Klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` STM32 MCU based boards ```.
+
+      • Kemudian klik ``` Tools ``` -> ``` Board ``` -> ``` STM32 boards groups ``` -> ``` Generic STM32F1 series ```.
+
+      </td></tr>
+   </table><br>
+   
+4. ``` Ubah Nomor Bagian Papan ``` di Arduino IDE
+
+   <table><tr><td width="810">
+      
+      Klik ``` Tools ``` -> ``` Board part number ``` -> ``` BluePill F103C8 ```
+
+   </td></tr></table><br>
+   
+5. ``` Ubah Dukungan U(S)ART ``` di Arduino IDE
+
+   <table><tr><td width="810">
+      
+      Klik ``` Tools ``` -> ``` U(S)ART Support ``` -> ``` Enabled (generic 'Serial') ```
+
+   </td></tr></table><br>
+
+6. ``` Ubah Metode Pengunggahan ``` di Arduino IDE
+
+   <table><tr><td width="810">
+      
+      Klik ``` Tools ``` -> ``` Upload method ``` -> ``` STM32CubeProgrammer (Serial) ```
+
+   </td></tr></table><br>
+   
+7. ``` Pengaturan Port ``` di Arduino IDE
+
+   <table><tr><td width="810">
+      
+      Klik ``` Port ``` -> Pilih sesuai dengan port perangkat anda ``` (anda dapat melihatnya di Device Manager) ```
+
+   </td></tr></table><br>
 
 8. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
 9. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
 
-10. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
+10. Jika masih ada masalah saat unggah program, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
@@ -115,7 +160,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 
    • Sambungkan ``` board STM32F103C8T6 ``` ini ke ``` FTDI ```.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/3673fac7-49e1-43e7-8c7a-1bfaf060d7cb" alt="programming-mode">
+      <img width="810" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/3673fac7-49e1-43e7-8c7a-1bfaf060d7cb" alt="programming-mode">
    
    • Kemudian sambungkan ``` FTDI ``` ke ``` PC/Laptop ``` anda dengan kabel ``` Mini USB - USB tipe A ```.
    
@@ -131,14 +176,19 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
    
    • Pastikan posisi ``` jumper BOOT0 & BOOT1 ``` yang ada pada ``` STM32F1 ``` berada pada posisi ``` 0 ```.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/25e28727-b9bf-4218-9919-a5c807b8cb44" alt="operating-mode">
+      <img width="810" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/25e28727-b9bf-4218-9919-a5c807b8cb44" alt="operating-mode">
    
    • Kode program yang telah tertanam dalam ``` board STM32 ``` ini siap untuk dioperasikan (sudah tidak ada aktivitas pemrograman lagi).
 
    • Untuk menghidupkan ``` board STM32F1 ``` ini, anda dapat menggunakan catu daya eksternal seperti baterai atau yang lainnya.<br><br><br>
 
-<strong>Catatan :</strong><br><br>
-Untuk mengunggah program, selain menggunakan ``` FTDI FT232RL ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` ST-Link/V2 ``` ataupun ``` PL2303 ```.
+<strong>Catatan :</strong>
+
+<table><tr><td width="840">
+
+   Untuk mengunggah program, selain menggunakan ``` FTDI FT232RL ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` ST-Link/V2 ``` ataupun ``` PL2303 ```.
+
+</td></tr></table>
 
 <br><br>
 
@@ -157,7 +207,7 @@ Untuk mengunggah program, selain menggunakan ``` FTDI FT232RL ```, anda juga dap
   
 7. Antarmuka pengguna siap digunakan. Hal ini seperti yang terlihat pada gambar berikut.
 
-   <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/6ccfbbaa-a972-4437-a08d-2b40755badef" alt="user-interface">
+   <img width="810" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/6ccfbbaa-a972-4437-a08d-2b40755badef" alt="user-interface">
 
 <br><br>
 
@@ -175,7 +225,7 @@ Untuk mengunggah program, selain menggunakan ``` FTDI FT232RL ```, anda juga dap
 <br><br>
 
 ## Sorotan
-<img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/8cc918a3-6a37-4f63-ab0c-0a426ced48ab" alt="rc-car-robot">
+<img width="840" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/8cc918a3-6a37-4f63-ab0c-0a426ced48ab" alt="rc-car-robot">
 
 <br><br>
 
