@@ -14,36 +14,46 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | --- | --- |
 | Development Board | STM32F103C8T6 |
 | Code Editor | Arduino IDE |
-| Application Support | STM32CubeProgrammer, Bluetooth RC Controller |
+| Application Support | • STM32CubeProgrammer<br>• Bluetooth RC Controller |
 | Programmer Tools | FTDI FT232RL |
 | Driver | USB-Serial CDM |
 | Programming Language | C/C++ |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | JDY-31 SPP-C: Bluetooth Module (x1) |
-| Other Components | Mini USB cable - USB type A (x1), Micro USB cable - 2 pin JST (x1), Jumper cable (1 set), KCD11: Rocker Switch SPST (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x2), Caster wheel (x1), Motor driver L298N (x1), Car robot frame (x1), Spicer bolts (1 set), Bolts plus (1 set), and Nuts (1 set) |
+| Other Components | • Mini USB cable - USB type A (x1)<br>• Micro USB cable - 2 pin JST (x1)<br>• Jumper cable (1 set)<br>• KCD11: Rocker Switch SPST (x1)<br>• Li-ion battery 18650 (x2)<br>• 2-Slot series battery holder (x1)<br>• Robot wheels (x2)<br>• Caster wheel (x1)<br>• Motor driver L298N (x1)<br>• Car robot frame (x1)<br>• Spicer bolts (1 set)<br>• Bolts plus (1 set)<br>• Nuts (1 set) |
 
 <br><br>
 
 ## Download & Install
 1. Arduino IDE
 
+   <table><tr><td width="810">
+         
    ```
    https://www.arduino.cc/en/software
    ```
-<br>
+
+   </td></tr></table><br>
 
 2. USB-Serial CDM
+
+   <table><tr><td width="810">
 
    ```
    https://bit.ly/CDM_Driver
    ```
-<br>
+
+   </td></tr></table><br>
 
 3. STM32CubeProgrammer
+
+   <table><tr><td width="810">
    
    ```
    https://bit.ly/STM32_Cube_Programmer
    ```
+
+   </td></tr></table>
    
 <br><br>
 
@@ -70,35 +80,73 @@ In operation, this robot car requires a battery as its power supply. Then the us
 <br><br>
 
 ## Arduino IDE Setup
-1. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` -> ``` stm32_btrc_car_robot.ino ```.<br><br>
-   
-2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE<br><br>
-   • Method: click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
-   
-   ```
-   https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
-   ```
-   
-3. ``` Board Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` STM32 MCU based boards ```. Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` STM32 boards groups ``` -> ``` Generic STM32F1 series ```.<br><br>
-   
-4. ``` Change Board Part Number ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Board part number ``` -> ``` BluePill F103C8 ```.<br><br>
-   
-5. ``` Change U(S)ART Support ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` U(S)ART Support ``` -> ``` Enabled (generic 'Serial') ```.<br><br>
+1. Open the ``` Arduino IDE ``` first, then open this project by clicking ``` File ``` -> ``` Open ``` :
 
-6. ``` Change Upload Method ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Upload method ``` -> ``` STM32CubeProgrammer (Serial) ```.<br><br>
+   <table><tr><td width="810">
+      
+      ``` stm32_btrc_car_robot.ino ```
+
+   </td></tr></table><br>
    
-7. ``` Port Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
+2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE
 
-8. Before uploading the program please click: ``` Verify ```.<br><br>
+   <table><tr><td width="810">
+         
+      Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
+      
+      ```
+      https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
+      ```
 
-9. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
+   </td></tr></table><br>
+   
+3. ``` Board Setup ``` in Arduino IDE
 
-10. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
+   <table><tr><td width="810">
+         
+      • Click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` STM32 MCU based boards ```.
+
+      • Then click ``` Tools ``` -> ``` Board ``` -> ``` STM32 boards groups ``` -> ``` Generic STM32F1 series ```.
+
+   </td></tr></table><br>
+   
+5. ``` Change Board Part Number ``` in Arduino IDE
+
+   <table><tr><td width="810">
+         
+      Click ``` Tools ``` -> ``` Board part number ``` -> ``` BluePill F103C8 ```
+
+   </td></tr></table><br>
+   
+6. ``` Change U(S)ART Support ``` in Arduino IDE
+
+   <table><tr><td width="810">
+         
+      Click ``` Tools ``` -> ``` U(S)ART Support ``` -> ``` Enabled (generic 'Serial') ```
+
+   </td></tr></table><br>
+
+7. ``` Change Upload Method ``` in Arduino IDE
+
+   <table><tr><td width="810">
+         
+      Click ``` Tools ``` -> ``` Upload method ``` -> ``` STM32CubeProgrammer (Serial) ```
+
+   </td></tr></table><br>
+   
+8. ``` Port Setup ``` in Arduino IDE
+
+   <table><tr><td width="810">
+         
+      Click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```
+
+   </td></tr></table><br>
+
+9. Before uploading the program please click: ``` Verify ```.<br><br>
+
+10. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
+
+11. If there is still a problem when uploading the program, then try checking the ```driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
