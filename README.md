@@ -117,7 +117,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
       </td></tr>
    </table><br>
    
-5. ``` Change Board Part Number ``` in Arduino IDE
+4. ``` Change Board Part Number ``` in Arduino IDE
 
    <table><tr><td width="810">
          
@@ -125,7 +125,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
    </td></tr></table><br>
    
-6. ``` Change U(S)ART Support ``` in Arduino IDE
+5. ``` Change U(S)ART Support ``` in Arduino IDE
 
    <table><tr><td width="810">
          
@@ -133,7 +133,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
    </td></tr></table><br>
 
-7. ``` Change Upload Method ``` in Arduino IDE
+6. ``` Change Upload Method ``` in Arduino IDE
 
    <table><tr><td width="810">
          
@@ -141,7 +141,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
    </td></tr></table><br>
    
-8. ``` Port Setup ``` in Arduino IDE
+7. ``` Port Setup ``` in Arduino IDE
 
    <table><tr><td width="810">
          
@@ -149,11 +149,11 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
    </td></tr></table><br>
 
-9. Before uploading the program please click: ``` Verify ```.<br><br>
+8. Before uploading the program please click: ``` Verify ```.<br><br>
 
-10. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
+9. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
-11. If there is still a problem when uploading the program, then try checking the ``` driver ``` / ``` port ``` / ``` others ``` section.
+10. If there is still a problem when uploading the program, then try checking the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
