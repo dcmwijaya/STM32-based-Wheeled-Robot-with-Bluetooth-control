@@ -102,13 +102,20 @@ In operation, this robot car requires a battery as its power supply. Then the us
    
 3. ``` Board Setup ``` in Arduino IDE
 
-   <table><tr><td width="810">
+   <table>
+      <tr><th width="810">
+
+      How to setup the ``` STM32F103C8T6 ``` board
+            
+      </th></tr>
+      <tr><td>
          
       • Click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` STM32 MCU based boards ```.
 
       • Then click ``` Tools ``` -> ``` Board ``` -> ``` STM32 boards groups ``` -> ``` Generic STM32F1 series ```.
 
-   </td></tr></table><br>
+      </td></tr>
+   </table><br>
    
 5. ``` Change Board Part Number ``` in Arduino IDE
 
@@ -152,7 +159,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
 ## Programmer Tools Setup: FTDI FT232RL
 1. ``` Programming Mode ``` :
-   
+      
    • Make sure you haven't uploaded the program.
    
    • Make sure the ``` BOOT0 jumper ``` position on the ``` STM32F1 ``` is at position ``` 1 ```.
@@ -163,7 +170,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
    • Connect this ``` STM32F103C8T6 board ``` to ``` FTDI ```.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/3673fac7-49e1-43e7-8c7a-1bfaf060d7cb" alt="programming-mode">
+      <img width="810" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/3673fac7-49e1-43e7-8c7a-1bfaf060d7cb" alt="programming-mode">
 
    • Then connect the ``` FTDI ``` to your ``` PC/Laptop ``` with a ``` Mini USB - USB type A ``` cable.
 
@@ -179,14 +186,19 @@ In operation, this robot car requires a battery as its power supply. Then the us
    
    • Make sure the ``` BOOT0 & BOOT1 jumper ``` position on the ``` STM32F1 ``` is at position ``` 0 ```.
       
-      <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/25e28727-b9bf-4218-9919-a5c807b8cb44" alt="operating-mode">
+      <img width="810" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/25e28727-b9bf-4218-9919-a5c807b8cb44" alt="operating-mode">
    
    • The program code that has been embedded in this ``` STM32 board ``` is ready for operation (no more programming activities).
 
    • To power up this ``` STM32F1 board ```, you can use an external power supply such as a battery or something else.<br><br><br>
 
-<strong>Notes :</strong><br><br>
-To upload the program, besides using the ``` FTDI FT232RL ```, you can also use other programming tools such as: ``` ST-Link/V2 ``` or ``` PL2303 ```.
+<strong>Notes :</strong>
+
+<table><tr><td width="840">
+   
+   To upload the program, besides using the ``` FTDI FT232RL ```, you can also use other programming tools such as: ``` ST-Link/V2 ``` or ``` PL2303 ```.
+
+</td></tr></table>
 
 <br><br>
 
@@ -205,7 +217,7 @@ To upload the program, besides using the ``` FTDI FT232RL ```, you can also use 
   
 7. The user interface is ready to use. This is as seen in the following image.
 
-   <img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/6ccfbbaa-a972-4437-a08d-2b40755badef" alt="user-interface">
+   <img width="810" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/6ccfbbaa-a972-4437-a08d-2b40755badef" alt="user-interface">
 
 <br><br>
 
@@ -223,7 +235,7 @@ To upload the program, besides using the ``` FTDI FT232RL ```, you can also use 
 <br><br>
 
 ## Highlights
-<img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/8cc918a3-6a37-4f63-ab0c-0a426ced48ab" alt="rc-car-robot">
+<img width="840" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/8cc918a3-6a37-4f63-ab0c-0a426ced48ab" alt="rc-car-robot">
 
 <br><br>
 
