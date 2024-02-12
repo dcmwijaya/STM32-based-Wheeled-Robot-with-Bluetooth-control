@@ -153,7 +153,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
 10. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
-11. If there is still a problem when uploading the program, then try checking the ```driver ``` / ``` port ``` / ``` others ``` section.
+11. If there is still a problem when uploading the program, then try checking the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
