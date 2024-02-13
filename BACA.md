@@ -14,10 +14,10 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 | --- | --- |
 | Papan Pengembangan | STM32F103C8T6 |
 | Editor Kode | Arduino IDE |
-| Dukungan Aplikasi | • STM32CubeProgrammer<br>• Bluetooth RC Controller |
 | Alat Pemrogram | FTDI FT232RL |
 | Driver | USB-Serial CDM |
 | Protokol Komunikasi | Universal Asynchronous Receiver-Transmitter (UART) |
+| Dukungan Aplikasi | • STM32CubeProgrammer<br>• Bluetooth RC Controller |
 | Bahasa Pemrograman | C/C++ |
 | Aktuator | Motor Gear / Motor DC (x2) |
 | Sensor | JDY-31 SPP-C: Modul Bluetooth (x1) |
