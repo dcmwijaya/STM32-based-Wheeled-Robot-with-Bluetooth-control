@@ -17,6 +17,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 | Application Support | • STM32CubeProgrammer<br>• Bluetooth RC Controller |
 | Programmer Tools | FTDI FT232RL |
 | Driver | USB-Serial CDM |
+| Communications Protocol | Universal Asynchronous Receiver-Transmitter (UART) |
 | Programming Language | C/C++ |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | JDY-31 SPP-C: Bluetooth Module (x1) |
@@ -92,7 +93,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
    <table><tr><td width="810">
          
-      Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
+      Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link :
       
       ```
       https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
