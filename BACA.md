@@ -17,6 +17,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 | Dukungan Aplikasi | • STM32CubeProgrammer<br>• Bluetooth RC Controller |
 | Alat Pemrogram | FTDI FT232RL |
 | Driver | USB-Serial CDM |
+| Protokol Komunikasi | Universal Asynchronous Receiver-Transmitter (UART) |
 | Bahasa Pemrograman | C/C++ |
 | Aktuator | Motor Gear / Motor DC (x2) |
 | Sensor | JDY-31 SPP-C: Modul Bluetooth (x1) |
@@ -82,7 +83,7 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 
    <table><tr><td width="810">
       
-      Klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
+      Klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut :
       
       ```
       https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
