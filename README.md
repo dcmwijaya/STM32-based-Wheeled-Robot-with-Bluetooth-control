@@ -197,7 +197,9 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
 <table><tr><td width="840">
    
-   To upload the program, besides using the ``` FTDI FT232RL ```, you can also use other programming tools such as: ``` ST-Link/V2 ``` or ``` PL2303 ```.
+   • To upload the program, besides using the ``` FTDI FT232RL ```, you can also use other programming tools such as: ``` ST-Link/V2 ``` or ``` PL2303 ```.
+
+   • Based on experience, I admit that using the ``` ST-Link/V2 ``` is much better than the ``` USB PL2303 ``` or the ``` FTDI FT232RL ``` because the program upload can be done automatically without the need to move the pin socket for booting purposes.
 
 </td></tr></table>
 
