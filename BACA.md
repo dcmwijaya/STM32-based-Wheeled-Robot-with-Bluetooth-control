@@ -187,7 +187,9 @@ Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya
 
 <table><tr><td width="840">
 
-   Untuk mengunggah program, selain menggunakan ``` FTDI FT232RL ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` ST-Link/V2 ``` ataupun ``` PL2303 ```.
+   • Untuk mengunggah program, selain menggunakan ``` FTDI FT232RL ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` ST-Link/V2 ``` ataupun ``` PL2303 ```.
+
+   • Berdasarkan pengalaman, saya akui bahwa penggunaan ``` ST-Link/V2 ``` jauh lebih baik daripada ``` USB PL2303 ``` maupun ``` FTDI FT232RL ``` karena unggah program dapat dilakukan secara otomatis tanpa perlu memindahkan soket pin untuk keperluan booting.
 
 </td></tr></table>
 
