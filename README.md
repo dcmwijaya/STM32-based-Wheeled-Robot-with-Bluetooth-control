@@ -80,6 +80,11 @@ In operation, this robot car requires a battery as its power supply. Then the us
 
 <br><br>
 
+## Basic Knowledge
+In general, we can make a device communicate with another device. Communication that is often used is using ``` Serial Communication ```. There are two kinds of serial communication, namely ``` Hardware Serial ``` and ``` Software Serial ```. The author in this project applies ``` Hardware Serial ``` as a means of communication between devices by connecting the ``` TX ``` and ``` RX ``` pins ``` crosswise ``` on each development board, for example: ``` RX-TX ```, then ``` TX-RX ```. The ``` TX ``` pin is for ``` sending data ```, while the ``` RX ``` pin is for ``` receiving data ```.
+
+<br><br>
+
 ## Arduino IDE Setup
 1. Open the ``` Arduino IDE ``` first, then open this project by clicking ``` File ``` -> ``` Open ``` :
 
