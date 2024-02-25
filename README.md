@@ -5,7 +5,7 @@
 
 # STM32-based-Bluetooth-Radio-Control-Car-Robot
 <strong>Solo Project: STM32-based BTRC Car Robot</strong><br><br>
-In operation, this robot car requires a battery as its power supply. Then the user can control its movement by using a bluetooth signal. If the receiver is close to the transmitter, the signal generated will be stronger, while on the contrary, the signal generated will be weaker.
+In operation, this robot car requires a battery as its power supply. Then the user can control its movement by using a bluetooth signal. If the receiver is close to the transmitter, the signal generated will be stronger, while on the contrary, the signal generated will be weaker. This project prioritizes UART: Hardware Serial as a means of communication.
 
 <br><br>
 
@@ -81,7 +81,7 @@ In operation, this robot car requires a battery as its power supply. Then the us
 <br><br>
 
 ## Basic Knowledge
-In general, we can make a device communicate with another device. Communication that is often used is using ``` Serial Communication ```. There are two kinds of serial communication, namely ``` Hardware Serial ``` and ``` Software Serial ```. As for this project, it emphasizes ``` Hardware Serial ``` as the means of communication. ``` Hardware serial communication ``` can be done by connecting the ``` TX ``` and ``` RX ``` pins ``` crosswise ``` on each development board, for example: ``` RX-TX ```, then ``` TX-RX ```. The ``` TX ``` pin is for ``` sending data ```, while the ``` RX ``` pin is for ``` receiving data ```.
+Basically, a device can be communicated with other devices either wirelessly or by cable. Communication between commonly used hardware is ``` Serial Communication ```. It can be known that there are three types of ``` Serial Communication ```, which include: ``` UART (Universal Asynchronous Receiver-Transmitter) ```, ``` SPI (Serial Peripheral Interface) ```, and ``` I2C (Inter Integrated Circuit) ```. There are two kinds of ``` UART Serial Communication ```, namely ``` Hardware Serial ``` and ``` Software Serial ```. ``` Hardware serial communication ``` can be done by connecting the ``` TX ``` and ``` RX ``` pins ``` crosswise ``` on each development board, for example: ``` RX-TX ```, then ``` TX-RX ```. The ``` TX ``` pin is for ``` sending data ```, while the ``` RX ``` pin is for ``` receiving data ```.
 
 <br><br>
 
