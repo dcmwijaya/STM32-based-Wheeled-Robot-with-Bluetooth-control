@@ -5,7 +5,7 @@
 
 # STM32-based-Bluetooth-Radio-Control-Car-Robot
 <strong>Proyek Tunggal: Robot Mobil BTRC berbasis STM32</strong><br><br>
-Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya. Kemudian pengguna dapat mengontrol pergerakannya dengan menggunakan sinyal bluetooth. Jika penerima dekat dengan pemancar, maka sinyal yang dihasilkan akan semakin kuat, sedangkan sebaliknya, sinyal yang dihasilkan akan semakin lemah. Adapun proyek ini lebih mengedepankan ``` UART: Hardware Serial ``` sebagai sarana komunikasinya.
+Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya. Kemudian pengguna dapat mengontrol pergerakannya dengan menggunakan sinyal bluetooth. Jika penerima dekat dengan pemancar, maka sinyal yang dihasilkan akan semakin kuat, sedangkan sebaliknya, sinyal yang dihasilkan akan semakin lemah. Adapun proyek ini lebih mengedepankan UART: Hardware Serial sebagai sarana komunikasinya.
 
 <br><br>
 
