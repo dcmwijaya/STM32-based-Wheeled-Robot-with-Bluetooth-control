@@ -1,11 +1,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/STM32-based-Wheeled-Robot-with-Bluetooth-control)
 ![Project](https://img.shields.io/badge/Project-STM32-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
-# STM32-based-Bluetooth-Radio-Control-Car-Robot
-<strong>Solo Project: STM32-based BTRC Car Robot</strong><br><br>
-In operation, this robot car requires a battery as its power supply. Then the user can control its movement by using a bluetooth signal. If the receiver is close to the transmitter, the signal generated will be stronger, while on the contrary, the signal generated will be weaker. This project prioritizes UART: Hardware Serial as a means of communication.
+# STM32-based-Wheeled-Robot-with-Bluetooth-control
+<strong>Solo Project: STM32-based Wheeled Robot with Bluetooth control</strong><br><br>
+Robots are tools that can ease the burden on humans. Robots can be controlled by humans directly, but actually robots can also make their own decisions if given an intelligent algorithm. The type of robot that is often used in school activities is a wheeled robot. A wheeled robot is a robot that moves by using wheels. This project was made basically to provide education to the wider community on how to make a simple wheeled robot. This project has been implemented and took approximately 3 days. UART communication protocol is used as a medium for data exchange between Bluetooth and STM32 board. While the type of UART used is Hardware Serial. The benefit of making this project is none other than to add insight. The results of this study show that the robot can move according to user commands.
 
 <br><br>
 
