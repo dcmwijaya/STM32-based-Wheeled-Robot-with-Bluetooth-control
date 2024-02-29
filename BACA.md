@@ -80,7 +80,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
    <table><tr><td width="810">
       
-      ``` stm32_btrc_car_robot.ino ```
+      ``` stm32_btrobot.ino ```
 
    </td></tr></table><br>
    
