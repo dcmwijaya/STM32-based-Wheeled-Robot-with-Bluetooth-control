@@ -1,11 +1,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/STM32-based-Wheeled-Robot-with-Bluetooth-control)
 ![Project](https://img.shields.io/badge/Project-STM32-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
-# STM32-based-Bluetooth-Radio-Control-Car-Robot
-<strong>Proyek Tunggal: Robot Mobil BTRC berbasis STM32</strong><br><br>
-Dalam pengoperasiannya, mobil robot ini membutuhkan baterai sebagai catu dayanya. Kemudian pengguna dapat mengontrol pergerakannya dengan menggunakan sinyal bluetooth. Jika penerima dekat dengan pemancar, maka sinyal yang dihasilkan akan semakin kuat, sedangkan sebaliknya, sinyal yang dihasilkan akan semakin lemah. Adapun proyek ini lebih mengedepankan UART: Hardware Serial sebagai sarana komunikasinya.
+# STM32-based-Wheeled-Robot-with-Bluetooth-control
+<strong>Proyek Tunggal: Robot Beroda dengan kendali Bluetooth berbasis STM32</strong><br><br>
+Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan oleh manusia, namun sebenarnya robot juga dapat mengambil keputusannya sendirinya jika diberikan algoritma. Robot ada banyak jenisnya, salah satunya yaitu robot beroda. Robot beroda adalah robot yang bergerak dengan menggunakan roda. Proyek ini dibuat pada dasarnya untuk memberikan edukasi terkait pembuatan robot beroda. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 3 hari. Protokol komunikasi UART digunakan sebagai media untuk pertukaran data antara Bluetooth dengan board STM32. Sedangkan jenis UART yang dipakai berupa Hardware Serial. Manfaat dari pembuatan proyek ini tidak lain adalah untuk menambah wawasan. Hasil dari penelitian ini menunjukkan bahwa robot dapat bergerak sesuai perintah.
 
 <br><br>
 
