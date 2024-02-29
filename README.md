@@ -90,7 +90,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
    <table><tr><td width="810">
       
-      ``` stm32_btrc_car_robot.ino ```
+      ``` stm32_btrobot.ino ```
 
    </td></tr></table><br>
    
