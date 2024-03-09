@@ -238,6 +238,11 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
 <br><br>
 
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
+
+<br><br>
+
 ## LISENSI
 LISENSI MIT - Hak Cipta © 2023 - Devan C. M. Wijaya, S.Kom
 
