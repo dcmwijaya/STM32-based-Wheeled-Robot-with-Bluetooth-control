@@ -205,7 +205,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
    
    • To upload programs, in addition to using the ``` FTDI USB ```, you can also use other programmers such as: ``` ST-Link/V2 ```, ``` CP2102 USB ```, ``` CH340 USB ```, or with ``` PL2303 USB ```.
 
-   • Based on my experience, I admit that using the ``` ST-Link/V2 ``` is much better than other programmers because it is known to be more stable in performance. ``` ST-Link/V2 ``` also has the disadvantage that it can only be used on ``` STM32 ``` and ``` STM8 ``` boards.
+   • Based on experience, I admit that using the ``` ST-Link/V2 ``` is much better than other programmers because it is known to be more stable in performance. ``` ST-Link/V2 ``` also has the disadvantage that it can only be used on ``` STM32 ``` and ``` STM8 ``` boards.
 
 </td></tr></table>
 
