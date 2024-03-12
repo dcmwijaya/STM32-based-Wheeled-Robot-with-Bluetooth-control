@@ -193,10 +193,9 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
 <table><tr><td width="840">
 
-   • Untuk mengunggah program, selain menggunakan ``` FTDI FT232RL ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` ST-Link/V2 ``` ataupun ``` PL2303 ```.
+   • Untuk mengunggah program, selain menggunakan ``` USB FTDI ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` ST-Link/V2 ```, ``` USB CP2102 ```, ``` USB CH340 ```, atau dengan ``` USB PL2303 ```.
 
-   • Berdasarkan pengalaman, saya akui bahwa penggunaan ``` ST-Link/V2 ``` jauh lebih baik daripada ``` USB PL2303 ``` maupun ``` FTDI FT232RL ``` karena unggah program dapat dilakukan secara otomatis tanpa perlu memindahkan soket pin untuk keperluan booting.
-
+   • Berdasarkan pengalaman, saya akui bahwa penggunaan ``` ST-Link/V2 ``` ini jauh lebih baik daripada alat pemrogram lainnya karena diketahui kinerjanya lebih stabil.
 </td></tr></table>
 
 <br><br>
