@@ -195,7 +195,8 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
    • Untuk mengunggah program, selain menggunakan ``` USB FTDI ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` ST-Link/V2 ```, ``` USB CP2102 ```, ``` USB CH340 ```, atau dengan ``` USB PL2303 ```.
 
-   • Berdasarkan pengalaman, saya akui bahwa penggunaan ``` ST-Link/V2 ``` ini jauh lebih baik daripada alat pemrogram lainnya karena diketahui kinerjanya lebih stabil.
+   • Berdasarkan pengalaman, saya akui bahwa penggunaan ``` ST-Link/V2 ``` ini jauh lebih baik daripada alat pemrogram lainnya karena diketahui kinerjanya lebih stabil. ``` ST-Link/V2 ``` juga memiliki kekurangan yaitu hanya dapat digunakan pada board ``` STM32 ``` dan ``` STM8 ``` saja.
+   
 </td></tr></table>
 
 <br><br>
