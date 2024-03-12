@@ -14,7 +14,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 | --- | --- |
 | Development Board | STM32F103C8T6 |
 | Code Editor | Arduino IDE |
-| Programmer Tools | FTDI FT232RL |
+| Programmer Tools | FTDI USB |
 | Driver | USB-Serial CDM |
 | Communications Protocol | Universal Asynchronous Receiver-Transmitter (UART) |
 | IoT Architecture | 3 Layer |
@@ -164,7 +164,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
 <br><br>
 
-## Programmer Tools Setup: FTDI FT232RL
+## FTDI USB Setup
 1. ``` Programming Mode ``` :
       
    • Make sure you haven't uploaded the program.
@@ -203,9 +203,9 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
 <table><tr><td width="840">
    
-   • To upload the program, besides using the ``` FTDI FT232RL ```, you can also use other programming tools such as: ``` ST-Link/V2 ``` or ``` PL2303 ```.
+   • To upload programs, in addition to using the ``` FTDI USB ```, you can also use other programmers such as: ``` ST-Link/V2 ```, ``` CP2102 USB ```, ``` CH340 USB ```, or with ``` PL2303 USB ```.
 
-   • Based on experience, I admit that using the ``` ST-Link/V2 ``` is much better than the ``` USB PL2303 ``` as well as ``` FTDI FT232RL ``` because the program upload can be done automatically without the need to move the pin socket for booting purposes.
+   • Based on my experience, I admit that using the ``` ST-Link/V2 ``` is much better than other programmers because it is known to be more stable in performance. ``` ST-Link/V2 ``` also has the disadvantage that it can only be used on ``` STM32 ``` and ``` STM8 ``` boards.
 
 </td></tr></table>
 
