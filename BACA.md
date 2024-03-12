@@ -14,7 +14,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 | --- | --- |
 | Papan Pengembangan | STM32F103C8T6 |
 | Editor Kode | Arduino IDE |
-| Alat Pemrogram | FTDI FT232RL |
+| Alat Pemrogram | USB FTDI |
 | Driver | USB-Serial CDM |
 | Protokol Komunikasi | Universal Asynchronous Receiver-Transmitter (UART) |
 | Arsitektur IoT | 3 Lapisan |
@@ -154,7 +154,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
 <br><br>
 
-## Pengaturan Alat Pemrogram: FTDI FT232RL
+## Pengaturan USB FTDI
 1. ``` Mode Pemrograman ``` :
    
    • Pastikan belum mengunggah program.
