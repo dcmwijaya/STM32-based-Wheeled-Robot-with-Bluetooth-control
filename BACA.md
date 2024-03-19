@@ -22,7 +22,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 | Bahasa Pemrograman | C/C++ |
 | Aktuator | Motor Gear / Motor DC (x2) |
 | Sensor | JDY-31 SPP-C: Modul Bluetooth (x1) |
-| Komponen Lainnya | • Kabel Mini USB - USB tipe A (x1)<br>• Kabel Mikro USB - JST 2 pin (x1)<br>• Kabel jumper (1 set)<br>• KCD11: Saklar Pengayun SPST (x1)<br>• Baterai Li-ion 18650 (x2)<br>• Tempat baterai seri 2 slot (x1)<br>• Roda robot (x2)<br>• Roda kastor (x1)<br>• Motor driver L298N (x1)<br>• Kerangka robot mobil (x1)<br>• Baut spicer (1 set)<br>• Baut plus (1 set)<br>• Mur (1 set) |
+| Komponen Lainnya | • Kabel USB Mini - USB tipe A (x1)<br>• Kabel USB Mikro - JST 2 pin (x1)<br>• Kabel jumper (1 set)<br>• KCD11: Saklar Pengayun SPST (x1)<br>• Baterai Li-ion 18650 (x2)<br>• Tempat baterai seri 2 slot (x1)<br>• Roda robot (x2)<br>• Roda kastor (x1)<br>• Motor driver L298N (x1)<br>• Kerangka robot mobil (x1)<br>• Baut spicer (1 set)<br>• Baut plus (1 set)<br>• Mur (1 set) |
 
 <br><br>
 
