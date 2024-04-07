@@ -15,7 +15,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 | Development Board | STM32F103C8T6 |
 | Code Editor | Arduino IDE |
 | Programmer Tools | FTDI USB |
-| Driver | USB-Serial CDM |
+| Driver | CDM FTDI USB Driver |
 | Communications Protocol | Universal Asynchronous Receiver-Transmitter (UART) |
 | IoT Architecture | 3 Layer |
 | Application Support | • STM32CubeProgrammer<br>• Bluetooth RC Controller |
@@ -32,17 +32,17 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
    <table><tr><td width="810">
          
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
 
    </td></tr></table><br>
 
-2. USB-Serial CDM
+2. CDM FTDI USB Driver
 
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CDM_Driver
+   https://bit.ly/CDM_FTDI_USB_Driver
    ```
 
    </td></tr></table><br>
@@ -52,7 +52,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/STM32_Cube_Programmer
+   https://bit.ly/STM32_Cube_Programmer_Installer
    ```
 
    </td></tr></table>
