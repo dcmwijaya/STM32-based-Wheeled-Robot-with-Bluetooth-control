@@ -15,7 +15,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 | Papan Pengembangan | STM32F103C8T6 |
 | Editor Kode | Arduino IDE |
 | Alat Pemrogram | USB FTDI |
-| Driver | USB-Serial CDM |
+| Driver | CDM FTDI USB Driver |
 | Protokol Komunikasi | Universal Asynchronous Receiver-Transmitter (UART) |
 | Arsitektur IoT | 3 Lapisan |
 | Dukungan Aplikasi | • STM32CubeProgrammer<br>• Bluetooth RC Controller |
@@ -29,23 +29,33 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 ## Unduh & Instal
 1. Arduino IDE
 
+   <table><tr><td width="810">
+         
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
-<br>
 
-2. USB-Serial CDM
+   </td></tr></table><br>
+
+2. CDM FTDI USB Driver
+
+   <table><tr><td width="810">
 
    ```
-   https://bit.ly/CDM_Driver
+   https://bit.ly/CDM_FTDI_USB_Driver
    ```
-<br>
+
+   </td></tr></table><br>
 
 3. STM32CubeProgrammer
+
+   <table><tr><td width="810">
    
    ```
-   https://bit.ly/STM32_Cube_Programmer
+   https://bit.ly/STM32_Cube_Programmer_Installer
    ```
+
+   </td></tr></table>
    
 <br><br>
 
