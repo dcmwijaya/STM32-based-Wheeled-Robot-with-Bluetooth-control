@@ -66,8 +66,8 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 <th width="420">Diagram Ilustrasi</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/85978010-4eb6-4a6b-ad12-c6c0dd551e97" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/60a8106e-751d-4c63-96d3-61c612d889b4" alt="Pictorial-Diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
 </tr>
 </table>
 <table>
@@ -75,7 +75,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/3636a8db-2c91-4955-bb08-6b7eb2b5b114" alt="Wiring"></td>
+<td><img src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 
@@ -177,7 +177,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
    • Sambungkan ``` board STM32F103C8T6 ``` ini ke ``` FTDI ```.
       
-      <img width="810" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/3673fac7-49e1-43e7-8c7a-1bfaf060d7cb" alt="programming-mode">
+      <img width="810" src="Assets/Documentation/STM32-Mode/Programming Mode.jpg" alt="programming-mode">
    
    • Kemudian sambungkan ``` FTDI ``` ke ``` PC/Laptop ``` anda dengan kabel ``` Mini USB - USB tipe A ```.
    
@@ -193,7 +193,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
    
    • Pastikan posisi ``` jumper BOOT0 & BOOT1 ``` yang ada pada ``` STM32F1 ``` berada pada posisi ``` 0 ```.
       
-      <img width="810" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/25e28727-b9bf-4218-9919-a5c807b8cb44" alt="operating-mode">
+      <img width="810" src="Assets/Documentation/STM32-Mode/Operating Mode.jpg" alt="operating-mode">
    
    • Kode program yang telah tertanam dalam ``` board STM32 ``` ini siap untuk dioperasikan (sudah tidak ada aktivitas pemrograman lagi).
 
@@ -226,7 +226,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
   
 7. Antarmuka pengguna siap digunakan. Hal ini seperti yang terlihat pada gambar berikut.
 
-   <img width="810" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/6ccfbbaa-a972-4437-a08d-2b40755badef" alt="user-interface">
+   <img width="810" src="Assets/Documentation/Experiment/Bluetooth RC Controller.jpg" alt="user-interface">
 
 <br><br>
 
@@ -244,7 +244,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 <br><br>
 
 ## Sorotan
-<img width="840" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/8cc918a3-6a37-4f63-ab0c-0a426ced48ab" alt="rc-car-robot">
+<img width="840" src="Assets/Documentation/Experiment/Device.jpg" alt="rc-car-robot">
 
 <br><br>
 

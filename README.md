@@ -66,8 +66,8 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 <th width="420">Pictorial Diagram</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/85978010-4eb6-4a6b-ad12-c6c0dd551e97" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/60a8106e-751d-4c63-96d3-61c612d889b4" alt="Pictorial-Diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
 </tr>
 </table>
 <table>
@@ -75,7 +75,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/3636a8db-2c91-4955-bb08-6b7eb2b5b114" alt="Wiring"></td>
+<td><img src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 
@@ -177,7 +177,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
    • Connect this ``` STM32F103C8T6 board ``` to ``` FTDI ```.
       
-      <img width="810" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/3673fac7-49e1-43e7-8c7a-1bfaf060d7cb" alt="programming-mode">
+      <img width="810" src="Assets/Documentation/STM32-Mode/Programming Mode.jpg" alt="programming-mode">
 
    • Then connect the ``` FTDI ``` to your ``` PC/Laptop ``` with a ``` Mini USB - USB type A ``` cable.
 
@@ -193,7 +193,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
    
    • Make sure the ``` BOOT0 & BOOT1 jumper ``` position on the ``` STM32F1 ``` is at position ``` 0 ```.
       
-      <img width="810" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/25e28727-b9bf-4218-9919-a5c807b8cb44" alt="operating-mode">
+      <img width="810" src="Assets/Documentation/STM32-Mode/Operating Mode.jpg" alt="operating-mode">
    
    • The program code that has been embedded in this ``` STM32 board ``` is ready for operation (no more programming activities).
 
@@ -226,7 +226,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
   
 7. The user interface is ready to use. This is as seen in the following image.
 
-   <img width="810" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/6ccfbbaa-a972-4437-a08d-2b40755badef" alt="user-interface">
+   <img width="810" src="Assets/Documentation/Experiment/Bluetooth RC Controller.jpg" alt="user-interface">
 
 <br><br>
 
@@ -244,7 +244,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 <br><br>
 
 ## Highlights
-<img width="840" src="https://github.com/devancakra/STM32-based-Bluetooth-Radio-Control-Car-Robot/assets/54527592/8cc918a3-6a37-4f63-ab0c-0a426ced48ab" alt="rc-car-robot">
+<img width="840" src="Assets/Documentation/Experiment/Device.jpg" alt="rc-car-robot">
 
 <br><br>
 
