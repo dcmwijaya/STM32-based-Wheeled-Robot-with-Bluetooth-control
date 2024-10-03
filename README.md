@@ -5,7 +5,6 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # STM32-based-Wheeled-Robot-with-Bluetooth-control
-<strong>Solo Project: STM32-based Wheeled Robot with Bluetooth control</strong><br><br>
 Robots are tools that can ease the burden on humans. Robots can be controlled by humans directly, but actually robots can also make their own decisions if given an intelligent algorithm. The type of robot that is often used in school activities is a wheeled robot. A wheeled robot is a robot that moves by using wheels. This project was made basically to provide education to the wider community on how to make a simple wheeled robot. This project has been implemented and took approximately 3 days. UART communication protocol is used as a medium for data exchange between Bluetooth and STM32 board. While the type of UART used is Hardware Serial. The benefit of making this project is none other than to add insight. The results of this study show that the robot can move according to user commands.
 
 <br><br>
